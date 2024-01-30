@@ -54,6 +54,27 @@ mixin MessageStateMixin {
     untracked(() => clearSuccess());
     _successMessage.value = message;
   }
+
+  void clearAllMessages() {
+    untracked(() {
+      clearError();
+      clearInfo();
+      clearSuccess();
+    });
+  }
 }
 
-mixin MessageViewViewMixin<T extends StatefulWidget> on State<T> {}
+mixin MessageViewMixin<T extends StatefulWidget> on State<T> {
+  void messageListener(MessageStateMixin state) {
+    effect(() {
+      switch (state) {
+        case MessageStateMixin(:final errorMessage?):
+          Messages.showError(errorMessage, context);
+        case MessageStateMixin(:final infoMessage?):
+          Messages.showError(infoMessage, context);
+        case MessageStateMixin(:final successMessage?):
+          Messages.showError(successMessage, context);
+      }
+    });
+  }
+}

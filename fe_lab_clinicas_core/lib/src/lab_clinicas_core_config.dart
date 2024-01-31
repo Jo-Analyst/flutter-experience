@@ -26,9 +26,6 @@ class LabClinicasCoreConfig extends StatelessWidget {
     return FlutterGetIt(
       debugMode: kDebugMode,
       bindings: bindings,
-      bindingsBuilder: () => [
-        Bind.lazySingleton((i) => 'Batata'),
-      ],
       pages: [...pages ?? [], ...pagesBuilder ?? []],
       modules: modules,
       builder: (context, routes, flutterGetItNavObserver) {

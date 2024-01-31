@@ -22,7 +22,7 @@ class UserRepositoryImpl implements UserRepository {
       });
 
       return Right(accessToken);
-    } on DioException catch (e, s) {
+    } on DioException catch (e) {
       return switch (e) {
         DioException(response: Response(statusCode: HttpStatus.forbidden)?) =>
           Left(AuthUnAuthorizedException()),

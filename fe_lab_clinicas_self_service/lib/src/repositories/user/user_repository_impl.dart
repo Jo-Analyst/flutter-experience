@@ -1,3 +1,4 @@
+import 'dart:developer';
 import 'dart:io';
 
 import 'package:dio/dio.dart';
@@ -14,15 +15,19 @@ class UserRepositoryImpl implements UserRepository {
   Future<Either<AuthException, String>> login(
       String email, String password) async {
     try {
+      print('TEste ${restClient.options.baseUrl}');
       final Response(data: {'access_token': accessToken}) =
-          await restClient.unAuth.post('/auth', data: {
+          await restClient.unAuth.post("http://192.168.0.151:8080/auth", data: {
         'email': email,
         'password': password,
         'admin': true,
       });
 
+      print(accessToken.toString());
+
       return Right(accessToken);
-    } on DioException catch (e) {
+    } on DioException catch (e, s) {
+      log('Erro ao realizar login', error: e, stackTrace: s);
       return switch (e) {
         DioException(response: Response(statusCode: HttpStatus.forbidden)?) =>
           Left(AuthUnAuthorizedException()),

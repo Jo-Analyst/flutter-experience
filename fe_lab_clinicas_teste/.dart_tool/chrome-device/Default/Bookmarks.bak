@@ -1,0 +1,1866 @@
+{
+   "checksum": "6e86f64c5baeef8d63ca2e133dd289d1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13225738139142200",
+            "date_last_used": "0",
+            "guid": "9c5a280d-1428-475d-80e2-f04c3bb8fdd0",
+            "id": "148",
+            "name": "[RESOLVIDO]Como alterar uma coluna para não receber NULL - Assuntos Gerais - GUJ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.guj.com.br/t/resolvido-como-alterar-uma-coluna-para-nao-receber-null/292148"
+         }, {
+            "date_added": "13227305689499293",
+            "date_last_used": "0",
+            "guid": "83ebbd61-62f1-4cc2-891d-6ed2a3550156",
+            "id": "149",
+            "name": "WineHQ - Execute aplicativos Windows no Linux, BSD, Solaris e macOS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.winehq.org/"
+         }, {
+            "date_added": "13227627352796257",
+            "date_last_used": "0",
+            "guid": "461de51f-5da5-4cb7-bfef-9e686447e07b",
+            "id": "150",
+            "name": "Desabilitar a ativação de URL de aplicativos ClickOnce usando o Designer - Visual Studio | Microsoft Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.microsoft.com/pt-br/visualstudio/deployment/how-to-disable-url-activation-of-clickonce-applications-by-using-the-designer?view=vs-2019"
+         }, {
+            "date_added": "13227910733356020",
+            "date_last_used": "0",
+            "guid": "8938ff12-8d3e-4cfd-a447-301e1666f485",
+            "id": "151",
+            "name": "Wireframe.cc | The go-to wireframing tool.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://wireframe.cc/OXfKmJ"
+         }, {
+            "date_added": "13227910756442783",
+            "date_last_used": "0",
+            "guid": "3b76e246-4d10-403b-921f-ef03a268c709",
+            "id": "152",
+            "name": "www.attekita.com/#portifolio",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.attekita.com/#portifolio"
+         }, {
+            "date_added": "13227917095687008",
+            "date_last_used": "0",
+            "guid": "9b024192-5e88-4ded-a790-b4f5097ef258",
+            "id": "153",
+            "name": "How Secure Is My Password?",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://howsecureismypassword.net/"
+         }, {
+            "date_added": "13228141992360843",
+            "date_last_used": "0",
+            "guid": "3ea4c8d7-c52a-463d-8f1d-a287e06e24a8",
+            "id": "154",
+            "name": "YouTube to MP3 – Free, fast and easy-to-use",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://2conv.com/en35/downloads/mp3/yt_K2MnPmYUsOo/"
+         }, {
+            "date_added": "13228426930806589",
+            "date_last_used": "0",
+            "guid": "4b4d25bf-4e36-47b2-abe2-a78cc93e62a8",
+            "id": "155",
+            "name": "www.attekita.com/#portifolio",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.attekita.com/"
+         }, {
+            "date_added": "13229479178600689",
+            "date_last_used": "0",
+            "guid": "1e26470c-65f4-4cf8-a8ab-ff9e5b4d228e",
+            "id": "156",
+            "name": "Desafios de Lógica #1 | Código Fácil",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://codigofacilblog.wordpress.com/2012/03/02/desafios-de-logica-1/"
+         }, {
+            "date_added": "13231963236978113",
+            "date_last_used": "0",
+            "guid": "902ea7f5-8125-4325-8550-ae3ece3c9286",
+            "id": "157",
+            "name": "Restaurando um Database Suspect – SQL Server – OnlyWhatMatters",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://onlywhatmatters.wordpress.com/2013/04/17/restaurando-um-database-suspect-sql-server/"
+         }, {
+            "date_added": "13232143717656971",
+            "date_last_used": "0",
+            "guid": "1d9af840-bd4e-461c-bc7b-d57e20b092b0",
+            "id": "158",
+            "name": "Professora usa fibras naturais que comem gordura para reduzir peso e quase vai presa!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://blog2.noticia-agora.com/lipocaps-professora-fibras-naturais-tab/?p=tab&cep=N1s2ryUsvZ6wyxzUSU3iHOs1rEJedF1zwYhZmi1Emtre1E7C3C-OnMNPFAwjPYGfp5ZfQaZUUzmv_WhuceIeah8kFwI55bENQo9OnEZ8LDxZOuy7Q-HC67vITD_NFOxEWqP3yjU_tPYMKveJYi9Sbpu6IbqwhpZB3g5fn-QdarGE5h3rw9_JQsPMuOMmlIXXCRyblqNNSOXGKaAKq3MxxVL7uSNUO7G9-ImMAYqWVaU9dmFbB5C5oKl8z8B6pwKIOQZ7VSFegj0gWlIR-4pWj3NfHbadGf8lRDgstBNbgRDp8vJWHdzLbXpZ7qEnneCYasd7uPVck3qFnS7CZDPSHlRsu9qhPycs-pE3zLblnBdaimSpLIpBlL0CTD32gXHf_3HrQMNsjmhur_XsV16g0c749zm0dJR70Cf8mSqvGhgwPT4ZaoaVcfZfY3KCE4JRvEASD9P8abAnBhrCT7WVQ54xouENZ-H8EnflPtqIaVU2KTXBHHk4DjGz5bTLWJE2We3TJRZQAFw9E75wkT-j3iS8GcA6Z6D2zQJHfbZ8Wi5tou2nCPDtWjTYFSBpqbDS&lptoken=15c2877767d413c27182&img=62&h=124&utm_source=taboola&utm_medium=conversaafiadacombr&utm_campaign=4192607&utm_content=Mulher%20usa%20fibras%20que%20absorvem%20gordura%20e%20quase%20vai%20presa%20por%20emagrecer%20demais"
+         }, {
+            "children": [ {
+               "date_added": "13233949400989595",
+               "date_last_used": "0",
+               "guid": "c19395a7-23a1-4f36-bd95-f693910ddebe",
+               "id": "160",
+               "name": "newsletter – news.cod3r.com.br",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://news.cod3r.com.br/newsletter/?utm_source=newsletter_udemy&utm_medium=newsletter_udemy&utm_campaign=newsletter_udemy&utm_term=newsletter_udemy"
+            }, {
+               "date_added": "13233949589387618",
+               "date_last_used": "0",
+               "guid": "5992a215-fbcc-414d-9832-3e4b4dc87c9d",
+               "id": "161",
+               "name": "Cod3r",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.cod3r.com.br/courses/take/electron-vue/lessons/12503722-introducao"
+            }, {
+               "date_added": "13234317518091900",
+               "date_last_used": "0",
+               "guid": "bf359ab2-331a-4383-8591-1f4dae2b4b7f",
+               "id": "162",
+               "name": "How to create Vue.js Transitions - Vue Mastery - Medium",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://medium.com/vue-mastery/how-to-create-vue-js-transitions-6487dffd0baa"
+            }, {
+               "date_added": "13235165120177391",
+               "date_last_used": "0",
+               "guid": "2b77218b-08cc-4c28-8502-939f273d6a47",
+               "id": "163",
+               "name": "color picker - Pesquisa Google",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.google.com/search?safe=active&sxsrf=ALeKk02slKAcB49rRlkWX5iw8RAfOsUFGg%3A1590691498300&ei=qgbQXpvnEeiz5OUPko2noAw&q=color+picker&oq=color&gs_lcp=CgZwc3ktYWIQAxgAMgQIIxAnMgQIIxAnMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgIIADICCAAyBAgAEEMyBggAEAcQHlCZLFiZLGC2PmgAcAB4AIAB8wSIAfMEkgEDNS0xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab"
+            }, {
+               "date_added": "13236365945691589",
+               "date_last_used": "0",
+               "guid": "0f4680eb-1910-4472-8f8e-213bb12ad392",
+               "id": "164",
+               "name": "How to use Font Awesome 5 on VueJS Project - Frontend Weekly - Medium",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://medium.com/front-end-weekly/how-to-use-fon-awesome-5-on-vuejs-project-ff0f28310821"
+            }, {
+               "date_added": "13236724415924619",
+               "date_last_used": "0",
+               "guid": "804f3622-685a-4016-9178-eeda2cd33a41",
+               "id": "165",
+               "name": "Vue.js Brasil - Artigos em Português sobre Vue.js",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://vuejs-brasil.com.br/algumas-dicas-para-usar-no-vuerouter/"
+            }, {
+               "date_added": "13241831529376717",
+               "date_last_used": "0",
+               "guid": "1d913594-35e0-42af-b541-75552cf4be89",
+               "id": "166",
+               "name": "Object Reference Not Set to an Instance of an Object: How To Solve It",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://stackify.com/nullreferenceexception-object-reference-not-set/"
+            }, {
+               "date_added": "13236794140948298",
+               "date_last_used": "0",
+               "guid": "2d231ca8-b20d-40f5-b53d-02551db5defb",
+               "id": "167",
+               "name": "Editor de código gratuito: 7 opções para você escolher - Blog da KingHost",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://king.host/blog/2018/06/editor-de-codigo-gratuito-7-opcoes-para-voce-escolher-o-seu/"
+            }, {
+               "date_added": "13237320762815295",
+               "date_last_used": "0",
+               "guid": "2463eb93-c4c7-4b18-af3c-5a7af3d18b5a",
+               "id": "168",
+               "name": "Como utilizar os ícones do Bootstrap? :: Ajuda Online Fastcommerce",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://ajuda.fastcommerce.com.br/como-utilizar-os-icones-do-bootstrap"
+            }, {
+               "date_added": "13239995621359858",
+               "date_last_used": "0",
+               "guid": "c627d9db-aeca-441f-a345-fa5de40c3fe7",
+               "id": "169",
+               "name": "digital - Pesquisa - dafont.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://translate.google.com/?source=osdd#auto|auto|pressionou"
+            }, {
+               "date_added": "13240675410650436",
+               "date_last_used": "0",
+               "guid": "6329e1a0-dfe6-40d6-80a6-fe4a5919a6b6",
+               "id": "170",
+               "name": "How to Setup, Build and Deploy Native Apps with Vue | DigitalOcean",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.digitalocean.com/community/tutorials/how-to-setup-build-and-deploy-native-apps-with-vue#deploying-the-application-on-android"
+            }, {
+               "date_added": "13241052040341173",
+               "date_last_used": "0",
+               "guid": "a815c4a0-5704-4d8e-bfd2-f17a94655ea2",
+               "id": "171",
+               "name": "Exercícios — Mini Tutorial RegEx",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://turing.com.br/material/regex/exercicios.html"
+            }, {
+               "date_added": "13241315675996502",
+               "date_last_used": "0",
+               "guid": "9a768da1-8108-40f1-8d48-1b0f05bac7d5",
+               "id": "172",
+               "name": "gulp generator",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://steelydylan.github.io/gulp-generator/#"
+            }, {
+               "date_added": "13242164486992183",
+               "date_last_used": "0",
+               "guid": "34b328b4-428b-4727-b57e-9dc9be0732b6",
+               "id": "173",
+               "name": "Por que utilizar o Nuxt JS? Conheça esse framework para criar aplicações Vue JS - Hcode",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://hcode.com.br/blog/por-que-utilizar-o-nuxt-js-conheca-esse-framework-para-criar-aplicaces-vue-js"
+            }, {
+               "date_added": "13242932650974977",
+               "date_last_used": "0",
+               "guid": "0b4d8f6d-4d72-434e-94a3-b677f56a8d9b",
+               "id": "174",
+               "name": "Comunidade Fechada Torne Se Um Programador - Conecte-se na sua conta",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comunidadefechadatorneseumprog.club.hotmart.com/login"
+            }, {
+               "date_added": "13268512518850934",
+               "date_last_used": "0",
+               "guid": "6ec01147-b649-4b59-aac3-2d1b1bc84810",
+               "id": "175",
+               "name": "Angular decode payload JWT. Veja nesse artigo como decodificar o… | by Thiago S. Adriano | XP Inc. | Medium",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://medium.com/xp-inc/angular-decode-payload-jwt-6d2618ec444d"
+            } ],
+            "date_added": "13233949418556190",
+            "date_last_used": "0",
+            "date_modified": "13268512518850934",
+            "guid": "6ff2c230-ae7a-48ee-ab33-a4897a003b64",
+            "id": "159",
+            "name": "Cursos",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13243732354091052",
+            "date_last_used": "0",
+            "guid": "3330dc08-55dc-40d0-ba32-7a9e093980aa",
+            "id": "176",
+            "name": "Report (.rdlc) / ReportViewer - How to break textbox' text into multiple parts when it's too long? - Stack Overflow",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/6314455/report-rdlc-reportviewer-how-to-break-textbox-text-into-multiple-parts-w"
+         }, {
+            "date_added": "13244215371899338",
+            "date_last_used": "0",
+            "guid": "9ec8f652-09f4-4082-8d25-d5f9d6ff592c",
+            "id": "177",
+            "name": "(3) 40 - REFATORANDO CÓDIGO - CURSO DE JAVASCRIPT (MÓDULO 2) - TORNE-SE UM PROGRAMADOR - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=1oddz49LZgo&list=PLEdPHGYbHhle3ZM7xZaEnPF7RF3d2sUJU&index=7&t=14s&ab_channel=DaniloAparecido-Torne-seumprogramador"
+         }, {
+            "date_added": "13252759844641527",
+            "date_last_used": "0",
+            "guid": "f48fb3b7-d901-4a98-83cc-af524ee16bd0",
+            "id": "178",
+            "name": "PGMEI - Programa Gerador de DAS do Microempreendedor Individual",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/pgmei.app/Identificacao"
+         }, {
+            "date_added": "13253752009435577",
+            "date_last_used": "0",
+            "guid": "696a5ae3-c3b0-447e-a0f6-e1ce06010ddc",
+            "id": "179",
+            "name": "Torta-portuguesa fácil e deliciosa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.msn.com/pt-br/receitasebebidas/noticias-e-receitas/torta-portuguesa-f%C3%A1cil-e-deliciosa/ar-BB1cin0Y?ocid=msedgntp"
+         }, {
+            "date_added": "13254844912543822",
+            "date_last_used": "0",
+            "guid": "1306faef-4e00-4abf-91d0-aa714838db40",
+            "id": "180",
+            "name": "Óculos Ajustáveis | Meu WordPress",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://vivendo-melhor.com/?page_id=426&utm_source=taboola&utm_medium=referral&tblci=GiC8oylwbhuA9EXVtP9Pc3E-gsfQYRZ8SE-KZNFJIU_nASDK7lEo4eycst7p_v9u#tblciGiC8oylwbhuA9EXVtP9Pc3E-gsfQYRZ8SE-KZNFJIU_nASDK7lEo4eycst7p_v9u"
+         }, {
+            "date_added": "13254844953063379",
+            "date_last_used": "0",
+            "guid": "bb891411-dd82-4e6c-a50a-3153a6aaf285",
+            "id": "181",
+            "name": "vivendo-melhor.com/Óculos Ajustáveis/Oculos/Materia/pages/oculos.html#oferta",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://vivendo-melhor.com/%c3%93culos%20Ajust%c3%a1veis/Oculos/Materia/pages/oculos.html#oferta"
+         }, {
+            "date_added": "13258572924508993",
+            "date_last_used": "0",
+            "guid": "f07ac458-74d2-42a6-b700-2b45ae23ade2",
+            "id": "182",
+            "name": "Simulados e questões cargo de recenseador | Concursos no Brasil",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.concursosnobrasil.com.br/questoes/recenseador/"
+         }, {
+            "date_added": "13261060858818892",
+            "date_last_used": "0",
+            "guid": "84765c77-e3ea-400a-b581-5af22c9d77d6",
+            "id": "183",
+            "name": "Assistir Miraculous: As Aventuras de LadyBug Todos os Episódios - Max Séries",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maxseries.me/series-e-animes/miraculous-as-aventuras-de-ladybug/"
+         }, {
+            "date_added": "13337771258576012",
+            "date_last_used": "0",
+            "guid": "7dcd93b7-72a7-403f-8044-531e9a98a5ce",
+            "id": "184",
+            "name": "Assistir The Good Doctor: O Bom Doutor 6x9 Online - Overflix",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://overflix.app/assistir-the-good-doctor-o-bom-doutor-6x9-dublado-online-22896/"
+         }, {
+            "date_added": "13338153343208955",
+            "date_last_used": "0",
+            "guid": "b9b3a739-92ec-4503-8fee-9b3296670e28",
+            "id": "185",
+            "name": "Réveillon no Rio de Janeiro conta com praias vazias – Notícias TMZ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://noticiastmz.com/reveillon-no-rio-de-janeiro-conta-com-praias-vazias/"
+         }, {
+            "date_added": "13338153381770778",
+            "date_last_used": "0",
+            "guid": "e024f84a-2998-4286-a142-a179d075d9a4",
+            "id": "186",
+            "name": "Assistir As Aventuras de José e Durval Online HD - NovelasFlix",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://novelasflix.biz/series/as-aventuras-de-jose-e-durval/"
+         }, {
+            "date_added": "13338248082675164",
+            "date_last_used": "0",
+            "guid": "01b2440a-97be-4e39-8269-b2ca2dd449a0",
+            "id": "187",
+            "name": "Kit: Os Invencíveis – Editora Biruta",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.editorabiruta.com.br/collections/os-invenciveis/products/kit-os-invenciveis-2"
+         }, {
+            "date_added": "13351161403436527",
+            "date_last_used": "0",
+            "guid": "484a84cd-c0ab-4f70-b4fc-9b875fdd8fb4",
+            "id": "9",
+            "name": "Adobe Acrobat Pro DC for Samsung",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.adobe.com/go/samsung_apdc"
+         }, {
+            "date_added": "13351161403436413",
+            "date_last_used": "0",
+            "guid": "f0f740a0-78f1-46ef-ab1f-9b1cce32478e",
+            "id": "8",
+            "name": "Adobe Creative Cloud All Apps for Samsung",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.adobe.com/go/samsung_cci"
+         }, {
+            "date_added": "13351161403436018",
+            "date_last_used": "0",
+            "guid": "93ca35b0-c85f-43b8-b0c8-98796318a118",
+            "id": "7",
+            "name": "Adobe Premiere Pro CC for Samsung",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.adobe.com/go/samsung_ppcc"
+         } ],
+         "date_added": "13351161403143151",
+         "date_last_used": "0",
+         "date_modified": "13351162716273861",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13351161403143153",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13254393027563644",
+            "date_last_used": "0",
+            "guid": "b792cf93-0957-47c6-bb61-8b12eadc87f4",
+            "id": "15",
+            "name": "VariZero ® | Lançamento exclusivo em 2020 - VariZero ®",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://varizero.com/produto/?utm_source=taboola&utm_medium=VARI-MOB-1&utm_campaign=msn-brazil&tblci=GiDvXvV_Dr2JRm42FhYhfcAggXtaq5Za0MSoazII1oVnISCGgUAort6ryoq40NSEAQ"
+         }, {
+            "date_added": "13260790002559718",
+            "date_last_used": "0",
+            "guid": "224d72a3-e510-43a0-9e9a-b449122b527f",
+            "id": "16",
+            "name": "Rádio Missionária PSCJ | Zeno.FM",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://zeno.fm/radiomissionariapscj/"
+         }, {
+            "date_added": "13261084945458476",
+            "date_last_used": "0",
+            "guid": "13bebdb2-339f-45ac-aabf-62699e989ddf",
+            "id": "17",
+            "name": "Assistir Miraculous: As Aventuras de LadyBug Todos os Episódios - Max Séries",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maxseries.me/series-e-animes/miraculous-as-aventuras-de-ladybug/"
+         }, {
+            "date_added": "13264302735121307",
+            "date_last_used": "0",
+            "guid": "487d1038-2349-46db-b09f-91056ae7e2d7",
+            "id": "18",
+            "name": "Passinho do momento, Carpinteiro- Elias Monkbel e Orlandinho Pisero. Conto de fadas Baixar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.snappea.com/pt/videoInfo?key=https%3A%2F%2Fyoutu.be%2FOCPJML5EGjQ&searchType=link"
+         }, {
+            "date_added": "13266610870014246",
+            "date_last_used": "0",
+            "guid": "abb41f57-07b8-4f31-806a-9ebd4aeb224e",
+            "id": "19",
+            "name": "Profissão dos Sonhos - v2 - Profissão dos Sonhos",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aprofissaodossonhos.com/"
+         }, {
+            "date_added": "13271175241269266",
+            "date_last_used": "0",
+            "guid": "7589d3f0-a583-419b-ae52-7d6d1b4cd14e",
+            "id": "20",
+            "name": "API Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.gov.br/conecta/catalogo/apis/cadastro-base-do-cidadao-cbc-cpf/swagger_view#tag/cpf"
+         }, {
+            "date_added": "13271886484547419",
+            "date_last_used": "0",
+            "guid": "accad6bf-ccd8-42fc-9fd3-f4f1fc742134",
+            "id": "21",
+            "name": "Como utilizar o servidor SMTP do Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hostinger.com.br/tutoriais/aprenda-a-utilizar-o-smtp-google"
+         }, {
+            "date_added": "13271886543320105",
+            "date_last_used": "0",
+            "guid": "5b2c1811-f93f-4fe9-85e5-9508bb79ca69",
+            "id": "22",
+            "name": "javascript — Node.js e Nodemailer: podemos anexar documentos PDF aos emails?",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.ti-enxame.com/pt/javascript/node.js-e-nodemailer-podemos-anexar-documentos-pdf-aos-emails/1055398951/"
+         }, {
+            "date_added": "13271967344875038",
+            "date_last_used": "0",
+            "guid": "e93558a2-8ccf-4a6c-bc18-ed1b72493d0b",
+            "id": "23",
+            "name": "nodemailer-juice - npm",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.npmjs.com/package/nodemailer-juice"
+         }, {
+            "date_added": "13274367774892158",
+            "date_last_used": "0",
+            "guid": "7941d6f2-5b45-456f-b1d9-e771ac117948",
+            "id": "24",
+            "name": "Gooodwin",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.gooodwin.cc/xml/index.html#/user"
+         }, {
+            "date_added": "13274409690089884",
+            "date_last_used": "0",
+            "guid": "c7c8ad5a-0b9e-4303-a98d-aaa5828a45e9",
+            "id": "25",
+            "name": "Toloka: earn money online with zero investment",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://toloka.yandex.com/promo?referralCode=AGX4XLSI"
+         }, {
+            "date_added": "13274821566170594",
+            "date_last_used": "0",
+            "guid": "6150aa94-0f1c-4916-b541-0373fc137ef2",
+            "id": "26",
+            "name": "Scribie Audio/Video Transcription | Account Sign Up",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://scribie.com/account/sign-up"
+         }, {
+            "date_added": "13277580356219903",
+            "date_last_used": "0",
+            "guid": "7d564179-1152-4f55-ad90-64e104aac816",
+            "id": "27",
+            "name": "DASN SIMEI - Declaração Anual do Simples Nacional - Microempreendedor Individual",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/DASNSIMEI.app/Default.aspx"
+         }, {
+            "date_added": "13278535103969098",
+            "date_last_used": "0",
+            "guid": "6c69831e-c38a-42d5-8d07-5f10a4136ba4",
+            "id": "28",
+            "name": "Baixar video do YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pt.y2mate.guru/7/"
+         }, {
+            "date_added": "13285957737550614",
+            "date_last_used": "0",
+            "guid": "38f25596-087f-4a95-9847-10b0ebf3e095",
+            "id": "29",
+            "name": "Não contribuiu com o INSS e quer se aposentar? Veja o que fazer",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.msn.com/pt-br/dinheiro/other/n%C3%A3o-contribuiu-com-o-inss-e-quer-se-aposentar-veja-o-que-fazer/ar-AASvaV2?ocid=msedgdhp&pc=U531"
+         }, {
+            "date_added": "13285959226315691",
+            "date_last_used": "0",
+            "guid": "23b9c2f6-17d5-4562-a155-07dbab068337",
+            "id": "30",
+            "name": "Dropzone Input File",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://codepen.io/cesarchoqueskater/pen/KrxWdN"
+         }, {
+            "date_added": "13285969196978724",
+            "date_last_used": "0",
+            "guid": "3cad83e3-7094-4db3-ba4a-29a725d71306",
+            "id": "31",
+            "name": "Utilizando o File System para atualizar, deletar e renomear arquivos | MundoJS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mundojs.com.br/2020/03/06/utilizando-o-file-system-para-atualizar-deletar-e-renomear-arquivos/"
+         }, {
+            "date_added": "13285971091022119",
+            "date_last_used": "0",
+            "guid": "8fed3af0-ffad-426f-9c50-3fcdd2a2b994",
+            "id": "32",
+            "name": "Criar pasta/diretório com Node.JS - Stack Overflow em Português",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pt.stackoverflow.com/questions/427910/criar-pasta-diret%C3%B3rio-com-node-js"
+         }, {
+            "date_added": "13285986605140737",
+            "date_last_used": "0",
+            "guid": "1de42439-25be-49b3-9fe8-99ab1278ba3c",
+            "id": "33",
+            "name": "Aquarela Bela Vista",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://kolistt.com/clientes/casa8/aquarela/casal/"
+         }, {
+            "date_added": "13309069076891840",
+            "date_last_used": "0",
+            "guid": "7a82fc70-49cc-4214-9581-db4fa2b1edde",
+            "id": "34",
+            "name": "Private messaging - Part I | Socket.IO",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://socket.io/get-started/private-messaging-part-1"
+         }, {
+            "date_added": "13302962864712490",
+            "date_last_used": "0",
+            "guid": "e557da1e-78a2-4d66-9590-909c07749f38",
+            "id": "35",
+            "name": "FoxLearn | Formulários do Windows: como imprimir relatório RDLC sem visualizador de relatório em C #",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://foxlearn.com/windows-forms/how-to-print-rdlc-report-without-report-viewer-in-csharp-410.html"
+         }, {
+            "date_added": "13303399265926294",
+            "date_last_used": "0",
+            "guid": "818c1c60-b3dc-40f9-acab-08c39e58b24a",
+            "id": "36",
+            "name": "Google Tradutor",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/?source=osdd&sl=pt&tl=en&text=de%20nada&op=translate"
+         }, {
+            "date_added": "13303826187188002",
+            "date_last_used": "0",
+            "guid": "1388ed23-fb92-430c-a943-0535ddf939f7",
+            "id": "37",
+            "name": "Assinatura Potência Masculina - Conecte-se na sua conta",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://assinaturapotenciamasculina.club.hotmart.com/login"
+         }, {
+            "children": [ {
+               "date_added": "13303852120301338",
+               "date_last_used": "0",
+               "guid": "03ace946-2bd7-4d9e-9cd8-6dae682191a3",
+               "id": "39",
+               "name": "Tutorial MySQL - Adicionar uma coluna a uma tabela [ Passo a Passo ]",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://techexpert.tips/pt-br/mysql-pt-br/mysql-adicionar-uma-coluna-a-uma-tabela/"
+            } ],
+            "date_added": "13303852140782952",
+            "date_last_used": "0",
+            "date_modified": "13303852140782952",
+            "guid": "df35f800-5aba-4b63-9bc6-d64ecf74cbdb",
+            "id": "38",
+            "name": "tutoriais",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13304610233918594",
+            "date_last_used": "0",
+            "guid": "de79db63-3429-4f55-947d-c1a4b964145b",
+            "id": "40",
+            "name": "Video-to-mp3-converter baixar musicas mp3 - Conversor de vídeo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://video-to-mp3-converter.com/pt9"
+         }, {
+            "date_added": "13304794030502348",
+            "date_last_used": "0",
+            "guid": "28e206b2-43f0-4061-922e-3c13b947b016",
+            "id": "41",
+            "name": "YouTube to MP4 Converter",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ytmp3.plus/39-youtube-to-mp4/"
+         }, {
+            "date_added": "13305818983256685",
+            "date_last_used": "0",
+            "guid": "c634c298-9caf-417c-a663-d65cee878b9c",
+            "id": "42",
+            "name": "Baixe vídeos do Youtube rapidamente, baixe mp3 do Youtube, converta youtube de alta qualidade para mp3",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://x2download.com/pt104?fbclid=IwAR2z-cmERvzsypltw7x8pUGOg3pavbEHPCRhl5NJAuDu_wyFNDYf4w_QTtA"
+         }, {
+            "date_added": "13305987922264284",
+            "date_last_used": "0",
+            "guid": "b1803fe2-76ef-4000-ae76-8079e2b12114",
+            "id": "43",
+            "name": "Online MP3 Cutter - Cut Songs, Make Ringtones",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mp3cut.net/pt/"
+         }, {
+            "children": [ {
+               "date_added": "13274409737437506",
+               "date_last_used": "0",
+               "guid": "79dd8a3e-9d29-4629-9ab8-38c72512e346",
+               "id": "45",
+               "name": "Home of Crowdtesting: UX & Usability Testing | QA & Functional Testing",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.testbirds.com/"
+            }, {
+               "date_added": "13271895953842860",
+               "date_last_used": "0",
+               "guid": "31ec9c03-11b5-4cfa-9a3c-501c3faee8ab",
+               "id": "46",
+               "name": "Como desenvolver autenticação de e-mail de dois fatores usando NodeJS, PostgreSQL e Nodemailer.",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://ichi.pro/pt/como-desenvolver-autenticacao-de-e-mail-de-dois-fatores-usando-nodejs-postgresql-e-nodemailer-134319800214642"
+            }, {
+               "date_added": "13271445401695854",
+               "date_last_used": "0",
+               "guid": "a871490b-a400-45f3-9be6-fcfd809d18ce",
+               "id": "47",
+               "name": "Melhores Práticas de Segurança para o Express em Produção",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://expressjs.com/pt-br/advanced/best-practice-security.html"
+            }, {
+               "date_added": "13270694097447711",
+               "date_last_used": "0",
+               "guid": "b6e20c3a-fe5d-463d-beb1-c4d81f375e56",
+               "id": "48",
+               "name": "Knex.js - A SQL Query Builder for Javascript",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://knexjs.org/"
+            }, {
+               "date_added": "13269138571541613",
+               "date_last_used": "0",
+               "guid": "c1c14bdd-344c-4b4b-a9f6-c2d320aa149a",
+               "id": "49",
+               "name": "GitHub - EnterFlash/firebase-vue-infinite-scrolling: Firebase + Vue implementation of infinite scrolling",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/EnterFlash/firebase-vue-infinite-scrolling"
+            }, {
+               "date_added": "13268411763913378",
+               "date_last_used": "0",
+               "guid": "f91d0757-45bb-493f-ab3c-d79e404af9f3",
+               "id": "50",
+               "name": "ASP. NET Web API - Consumindo e criando um cadastro em Windows Forms",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://theclub.com.br/Restrito/Revistas/201903/ASPN1903.ASPX"
+            }, {
+               "date_added": "13285802766362064",
+               "date_last_used": "0",
+               "guid": "93825581-85fa-4ec8-b6b9-a54d13f4f6b4",
+               "id": "51",
+               "name": "Upload de arquivos com VueJS e Axios - Server Side Up",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://serversideup.net/uploading-files-vuejs-axios/"
+            }, {
+               "date_added": "13305043862893041",
+               "date_last_used": "0",
+               "guid": "21c5b1b6-d98c-49a9-998f-c8af4ef48579",
+               "id": "52",
+               "name": "knex.js - Migração: adicione uma coluna após uma coluna específica - Stack Overflow",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/58828429/migration-add-a-column-after-a-specific-column"
+            }, {
+               "date_added": "13305325265004502",
+               "date_last_used": "0",
+               "guid": "729a8d68-5530-403c-822a-581f12c22b47",
+               "id": "53",
+               "name": "ddl - Adding multiple columns AFTER a specific column in MySQL - Stack Overflow",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/17541312/adding-multiple-columns-after-a-specific-column-in-mysql"
+            }, {
+               "date_added": "13305731638702953",
+               "date_last_used": "0",
+               "guid": "da124f3a-ffe8-45fd-b2df-0f1674f806da",
+               "id": "54",
+               "name": "Como renomear colunas usando comandos SQL no MySQL - Bóson Treinamentos em Ciência e Tecnologia",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.bosontreinamentos.com.br/mysql/como-renomear-colunas-usando-comandos-sql-no-mysql/"
+            }, {
+               "date_added": "13306162436829963",
+               "date_last_used": "0",
+               "guid": "9873f765-129b-41dc-a958-0ebd9d10ce9e",
+               "id": "55",
+               "name": "Como renomear uma coluna no comando MySQL {ALTER TABLE}",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://phoenixnap.com/kb/how-to-rename-column-mysql#:~:text=Enter%20the%20following%20command%20in,or%20keep%20the%20existing%20one."
+            }, {
+               "date_added": "13306162471728993",
+               "date_last_used": "0",
+               "guid": "214d6166-266f-4e02-8747-07879f190236",
+               "id": "56",
+               "name": "MySQL: Declaração DE TABELA ALTER",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.techonthenet.com/mysql/tables/alter_table.php#:~:text=The%20syntax%20to%20rename%20a%20table%20in%20MySQL%20is%3A,The%20table%20to%20rename."
+            }, {
+               "date_added": "13306352613251167",
+               "date_last_used": "0",
+               "guid": "34b92e67-3955-466c-920f-02cb7f8f8a36",
+               "id": "57",
+               "name": "Como excluir branches locais e remotos do Git",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/portuguese/news/como-excluir-branches-locais-e-remotos-do-git/#:~:text=Exclua%20um%20branch%20com%20o,branch%20%2Dd%20.&text=A%20op%C3%A7%C3%A3o%20%2Dd%20excluir%C3%A1%20o,e%20o%20merge%20com%20ele."
+            }, {
+               "date_added": "13306424252968378",
+               "date_last_used": "0",
+               "guid": "912ec978-b3fd-4504-8ddd-ef37615b8b99",
+               "id": "58",
+               "name": "Select para listar colunas do banco de dados | PHP e MySQL I: Fundamentos para criar um sistema na Web | Solucionado",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://cursos.alura.com.br/forum/topico-select-para-listar-colunas-do-banco-de-dados-30125"
+            }, {
+               "date_added": "13308514548743225",
+               "date_last_used": "0",
+               "guid": "c392bef5-4593-429a-a028-cdb657b796b7",
+               "id": "59",
+               "name": "https://solides.jobs/#vacancy",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://solides.jobs/#vacancy"
+            }, {
+               "date_added": "13308516374012521",
+               "date_last_used": "0",
+               "guid": "98904ea2-c142-4c07-ad6d-6bdcd108ca4a",
+               "id": "60",
+               "name": "Gupy",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://dtidigital.gupy.io/candidates/applications/201650095/steps/1162406716/curriculum"
+            }, {
+               "children": [ {
+                  "date_added": "13309995841762132",
+                  "date_last_used": "0",
+                  "guid": "fb40410f-7762-4a28-add3-6cbcfd745466",
+                  "id": "62",
+                  "name": "'Erro: desova do fio ENOENT' no 'vue create' com uma instalação limpa · Edição #5891 · vuejs/vue-cli",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://github.com/vuejs/vue-cli/issues/5891"
+               } ],
+               "date_added": "13309995870997065",
+               "date_last_used": "0",
+               "date_modified": "13309995870997065",
+               "guid": "20c0a181-ec06-4e5a-9e33-463a115992c6",
+               "id": "61",
+               "name": "sos",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13310058301955900",
+               "date_last_used": "0",
+               "guid": "1538e34f-763d-4741-9ce6-3177edc5d281",
+               "id": "63",
+               "name": "Basic Chat Web App using Express.js, Vue.js & Socket.io | by Jaouad Ballat | Medium",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://medium.com/@jaouad_45834/basic-chat-web-app-using-express-js-vue-js-socket-io-429588e841f0"
+            }, {
+               "date_added": "13310417874632902",
+               "date_last_used": "0",
+               "guid": "3429a11d-e940-45be-b556-c973ec906d71",
+               "id": "64",
+               "name": "Explorar módulos Nuxt",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://modules.nuxtjs.org/?version=3.x"
+            }, {
+               "date_added": "13310576616455386",
+               "date_last_used": "0",
+               "guid": "06fb6728-511f-4841-912c-d0e6e92139fd",
+               "id": "65",
+               "name": "O que é o módulo de criptografia em Node.js e como ele é usado? – Acervo Lima",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://acervolima.com/o-que-e-o-modulo-de-criptografia-em-node-js-e-como-ele-e-usado/"
+            }, {
+               "date_added": "13311635018863904",
+               "date_last_used": "0",
+               "guid": "55390a42-354d-44ab-929c-f89db794287c",
+               "id": "66",
+               "name": "MySQL: ALTER TABLE Statement",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.techonthenet.com/mysql/tables/alter_table.php#:~:text=The%20syntax%20to%20drop%20a,table_name"
+            }, {
+               "date_added": "13311731953663286",
+               "date_last_used": "0",
+               "guid": "74360e4b-2628-4b61-863e-3d09aa84adbb",
+               "id": "67",
+               "name": "How to manage multiple GitHub accounts on a single machine with SSH keys",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/"
+            }, {
+               "date_added": "13314620268244849",
+               "date_last_used": "0",
+               "guid": "ce60e717-af9d-497a-a050-f2c7a3727b83",
+               "id": "68",
+               "name": "Passando um DataSet não tipado para o Report Viewer - André Alves de Lima",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.andrealveslima.com.br/blog/index.php/2017/02/01/passando-um-dataset-nao-tipado-para-o-report-viewer/"
+            }, {
+               "date_added": "13314704606851327",
+               "date_last_used": "0",
+               "guid": "ee6147f3-5917-455e-9209-b9ca356873b7",
+               "id": "69",
+               "name": "Como integrar o bootstrap 5 com o nuxt 3? · Discussão #5240 · nuxt/framework",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/nuxt/framework/discussions/5240"
+            }, {
+               "date_added": "13314704610713879",
+               "date_last_used": "0",
+               "guid": "7469308e-8362-45ac-8e17-23797f1d2525",
+               "id": "70",
+               "name": "Use Vue with... | Font Awesome Docs",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://fontawesome.com/docs/web/use-with/vue/use-with"
+            }, {
+               "date_added": "13315695786565320",
+               "date_last_used": "0",
+               "guid": "d3f0b855-d0ba-47fe-b838-0554e0098e2b",
+               "id": "71",
+               "name": "javascript - Regex para senha forte - Stack Overflow em Português",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://pt.stackoverflow.com/questions/373574/regex-para-senha-forte"
+            }, {
+               "date_added": "13316040387930227",
+               "date_last_used": "0",
+               "guid": "5ed50d12-3660-4619-b66a-776014c69300",
+               "id": "72",
+               "name": "How to validate a Password using Regular Expressions in Java - GeeksforGeeks",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.geeksforgeeks.org/how-to-validate-a-password-using-regular-expressions-in-java/"
+            }, {
+               "date_added": "13316086935042725",
+               "date_last_used": "0",
+               "guid": "0b22547e-d3f3-4166-b468-c286031230a6",
+               "id": "73",
+               "name": "components/ · Nuxt Directory Structure",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://nuxt.com/docs/guide/directory-structure/components"
+            }, {
+               "date_added": "13316174043273006",
+               "date_last_used": "0",
+               "guid": "3b875888-638f-4e3d-acf7-974b8282c115",
+               "id": "74",
+               "name": "Entendendo a nova configuração de script com (defineProps & defineEmits) no Vue 3.2",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.netlify.com/blog/understanding-defineprops-and-defineemits-in-vue-3.2/"
+            }, {
+               "date_added": "13316177377631493",
+               "date_last_used": "0",
+               "guid": "5eb0a707-9703-4859-807e-0a35ad1f6f79",
+               "id": "75",
+               "name": "O que você deve saber sobre o Vue v-model - LearnVue",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://learnvue.co/tutorials/v-model-guide"
+            }, {
+               "date_added": "13316253242765904",
+               "date_last_used": "0",
+               "guid": "a7132374-28be-4014-9f3b-66b4d1109ec9",
+               "id": "76",
+               "name": "Manipulação de Eventos — Vue.js",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://br.vuejs.org/v2/guide/events.html"
+            }, {
+               "date_added": "13316354486184051",
+               "date_last_used": "0",
+               "guid": "a58ac29a-86e4-4bcc-ad00-4237c109d2cb",
+               "id": "77",
+               "name": "Vue3.2.31Erro ESLint: as diretivas 'v-model' não requerem argumento. (vue/no-v-model-argument) solução _QC blog-CSDN do líder de classe blog_eslint v-model",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_35624642/article/details/123965505"
+            }, {
+               "date_added": "13316354490947496",
+               "date_last_used": "0",
+               "guid": "14587b65-33a2-45fb-ada4-3ccdf8727cac",
+               "id": "78",
+               "name": "Document.activeElement - APIs da Web | MDN",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://developer.mozilla.org/pt-BR/docs/Web/API/Document/activeElement"
+            }, {
+               "date_added": "13317127372569994",
+               "date_last_used": "0",
+               "guid": "80b127ce-4c3b-4943-946b-4ffe01edb7b7",
+               "id": "79",
+               "name": "Remover Fundo de Imagem Online Gratuitamente em Instantes – remove.bg",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.remove.bg/pt-br/upload"
+            }, {
+               "children": [ {
+                  "date_added": "13332165360953239",
+                  "date_last_used": "0",
+                  "guid": "46f799be-c34d-402b-a28a-a7fbc96dae2c",
+                  "id": "81",
+                  "name": "SQLite Date & Time - How To Handle Date and Time in SQLite",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.sqlitetutorial.net/sqlite-date/"
+               } ],
+               "date_added": "13332165360952980",
+               "date_last_used": "0",
+               "date_modified": "13332165360953239",
+               "guid": "ea7ddd5c-4720-4a93-b1c5-51caefe9a4ca",
+               "id": "80",
+               "name": "SQLITE",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13332165315188536",
+                  "date_last_used": "0",
+                  "guid": "9014b39f-82c4-4865-ad1f-24c856e3de52",
+                  "id": "83",
+                  "name": "Flutter Icons, List- Get All latest Flutter icons- Use Easily- Fluttericons",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://fontawesomeicons.com/flutter/icons"
+               }, {
+                  "date_added": "13333537528835333",
+                  "date_last_used": "0",
+                  "guid": "a1dd8a4f-9dd1-49c8-af08-eddb5ef016f8",
+                  "id": "84",
+                  "name": "Flutter DataTable | Widget DataGrid de Alto Desempenho | Sincronização",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.syncfusion.com/flutter-widgets/flutter-datagrid?utm_medium=ads&utm_source=googleads&utm_campaign=flutter-widgets&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk0ucAE1Gi4UHkJKQOJ4IR2ys3NZMMxoglhl5ZyoLelsJSy60Don1nxoCS6wQAvD_BwE"
+               }, {
+                  "date_added": "13333621863910966",
+                  "date_last_used": "0",
+                  "guid": "6420daa7-b59f-4070-8fca-d4f2ec68ef5c",
+                  "id": "85",
+                  "name": "Claude",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://claude.ai/login"
+               }, {
+                  "date_added": "13333966994992679",
+                  "date_last_used": "0",
+                  "guid": "ff06395f-975e-458c-8c99-4e232705ab52",
+                  "id": "86",
+                  "name": "Bard",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://bard.google.com/"
+               }, {
+                  "date_added": "13336311146701595",
+                  "date_last_used": "0",
+                  "guid": "1ff0e58a-25b5-40ce-b252-5f9125860c1e",
+                  "id": "87",
+                  "name": "Dica Flutter : Exibição de Coluna ou Lista? | por Ashish Das | Média",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://medium.com/@ashishdas1997/flutter-tip-column-or-list-view-1146fe7ea071"
+               }, {
+                  "date_added": "13336312024146863",
+                  "date_last_used": "0",
+                  "guid": "993876c7-b39c-45b2-94bc-94d7b663d156",
+                  "id": "88",
+                  "name": "Backup SQLite to Google Drive",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chat.openai.com/c/1dbb02e8-5e9c-4ade-adc4-d44c0e947f7b"
+               }, {
+                  "date_added": "13336561331482833",
+                  "date_last_used": "0",
+                  "guid": "6b78a1f0-2a06-456d-b822-f06e2252f6eb",
+                  "id": "89",
+                  "name": "Somar Datas em Dart",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chat.openai.com/c/bf75dd4d-9476-45bd-b635-b0a4612d5629"
+               }, {
+                  "date_added": "13336561512404930",
+                  "date_last_used": "0",
+                  "guid": "97c4b595-8223-4784-896b-fd630767bd7c",
+                  "id": "90",
+                  "name": "Dias em um mês",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chat.openai.com/c/480e7468-6cf5-4672-8e10-f422f82020fd"
+               }, {
+                  "date_added": "13337007831344849",
+                  "date_last_used": "0",
+                  "guid": "55c30698-8648-405a-96bc-b13df9928ccb",
+                  "id": "91",
+                  "name": "ChatGPT",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chat.openai.com/c/2a125f59-986e-44ec-b6d4-34430845d575"
+               }, {
+                  "date_added": "13339244181975099",
+                  "date_last_used": "0",
+                  "guid": "9b6dd107-36a9-4c6c-b9eb-6fd1c106130e",
+                  "id": "92",
+                  "name": "Backup e Restauração SQLite",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chat.openai.com/c/dee9562f-5fb5-4bfc-8446-dd46e71bf765"
+               }, {
+                  "date_added": "13339292485321044",
+                  "date_last_used": "0",
+                  "guid": "98f48dd7-49c0-443f-81a5-2db45b387b21",
+                  "id": "93",
+                  "name": "Widgets de Progresso em Flutter",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chat.openai.com/c/e2bfa0af-72a0-40b4-a56a-68323043d8d3"
+               }, {
+                  "date_added": "13339501384795305",
+                  "date_last_used": "0",
+                  "guid": "61620a15-df03-4de4-a447-c29cbe6a6402",
+                  "id": "94",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SQLite com retorno de palavra",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chat.openai.com/c/4cd9c78c-7693-418e-919e-f6c3cbab56c8"
+               }, {
+                  "date_added": "13339501404195348",
+                  "date_last_used": "0",
+                  "guid": "7e28e2c8-104c-4e37-beaa-14bd0bb6f50b",
+                  "id": "95",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Ordenação decrescente em Dart.",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chat.openai.com/c/89cad17b-99e8-4132-b400-f8a3f16966af"
+               }, {
+                  "date_added": "13339753762028204",
+                  "date_last_used": "0",
+                  "guid": "6b23689b-5ae9-438c-9ff5-920d04bd478f",
+                  "id": "96",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "FlutterIcon - Flutter custom icons generator",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.fluttericon.com/"
+               }, {
+                  "date_added": "13339846643789739",
+                  "date_last_used": "0",
+                  "guid": "a68937a5-13b9-4df9-9a2e-7c32990a1c0d",
+                  "id": "97",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "loading_animation_widget | Flutter Package",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pub.dev/packages/loading_animation_widget"
+               }, {
+                  "date_added": "13339894912583799",
+                  "date_last_used": "0",
+                  "guid": "b6c2c9ec-76a1-464d-9bd3-9909984ca3d1",
+                  "id": "98",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Limitar quantidade em uma lista",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chat.openai.com/c/74ea34d5-4c4b-4cb3-b930-1a5d7796534f"
+               }, {
+                  "date_added": "13339934342391923",
+                  "date_last_used": "0",
+                  "guid": "05b95c14-893e-4007-8354-9c18fc54452f",
+                  "id": "99",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "animated_toggle_switch | Flutter Package",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pub.dev/packages/animated_toggle_switch"
+               }, {
+                  "date_added": "13339941026799932",
+                  "date_last_used": "0",
+                  "guid": "c8b501ef-92a4-465d-8f6e-c6437ac90fec",
+                  "id": "100",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "responsive_sizer | Pacote Flutter",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://pub.dev/packages/responsive_sizer"
+               }, {
+                  "date_added": "13350848193293665",
+                  "date_last_used": "0",
+                  "guid": "f2028b1f-a14e-4ad0-855c-dae0388a2bfb",
+                  "id": "101",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "flutterexperience.com.br/preparacao",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://flutterexperience.com.br/preparacao"
+               }, {
+                  "date_added": "13350848266397330",
+                  "date_last_used": "0",
+                  "guid": "18346336-6a11-492d-b8d1-c641da791caa",
+                  "id": "102",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Academia do Flutter",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://novo.academiadoflutter.com.br/"
+               } ],
+               "date_added": "13332165506305921",
+               "date_last_used": "0",
+               "date_modified": "13350848266397330",
+               "guid": "afa802f8-25fb-4b10-ab59-be6ee973c8c5",
+               "id": "82",
+               "name": "Flutter",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13305043884263935",
+            "date_last_used": "0",
+            "date_modified": "13317127372569994",
+            "guid": "b888c00d-7e29-44c4-ad3c-a8520d7a50ed",
+            "id": "44",
+            "name": "estudos",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13307548997674559",
+            "date_last_used": "0",
+            "guid": "2ea15edb-ea10-4f84-9558-57029b4d9164",
+            "id": "103",
+            "name": "TopFlix - Assistir Homem-Aranha: Sem Volta Para Casa Online Dublado e Legendado",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://topflix.vc/filmes/assistir-online-homem-aranha-sem-volta-para-casa/"
+         }, {
+            "date_added": "13307800124055340",
+            "date_last_used": "0",
+            "guid": "538377e7-07f9-445d-99d1-0c20f179217f",
+            "id": "104",
+            "name": "Cebraspe | O melhor em avaliação de pessoas",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cebraspe.org.br/concursos/inss_22"
+         }, {
+            "date_added": "13309140992742690",
+            "date_last_used": "0",
+            "guid": "d0f159a7-ef07-4476-9508-6068acc1b5dd",
+            "id": "105",
+            "name": "Entre | Clipchamp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.clipchamp.com/login"
+         }, {
+            "date_added": "13310045624209977",
+            "date_last_used": "0",
+            "guid": "de991d23-ec95-4a02-884e-825e0ae95eef",
+            "id": "106",
+            "name": "Assistir Avatar: A Lenda De Korra 3 Episódio: 7 - AnimesUp - Animes Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://animesup.biz/episodios/avatar-a-lenda-de-korra-3-episodio-7/"
+         }, {
+            "date_added": "13312235728200078",
+            "date_last_used": "0",
+            "guid": "fb7852be-b1e4-4046-a465-300894af591d",
+            "id": "107",
+            "name": "Fotos profissionais gratuitas, imagens profissionais livres de royalties e fotos sem direitos autorais",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pexels.com/pt-br/"
+         }, {
+            "date_added": "13312991678281094",
+            "date_last_used": "0",
+            "guid": "c06aad78-3345-4989-976d-52988ee886bf",
+            "id": "108",
+            "name": "Piratas da Informática / Piratas do Vale do Silício (Dublado) - 1999 - 720p",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://redecanais.cx/piratas-da-informatica-piratas-do-vale-do-silicio-dublado-1999-720p_2182c372a.html"
+         }, {
+            "date_added": "13314060823548375",
+            "date_last_used": "0",
+            "guid": "f095f61b-569f-40f3-b6c9-3059cc901913",
+            "id": "109",
+            "name": "Miraculous - As Aventuras de Ladybug Online | Claro tv+",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.clarotvmais.com.br/series-programa-de-tv/miraculous-as-aventuras-de-ladybug/1000000624"
+         }, {
+            "date_added": "13314831661392085",
+            "date_last_used": "0",
+            "guid": "e127889d-71de-4a62-a567-2341f68763cd",
+            "id": "110",
+            "name": "Clipchamp - editor e criador de vídeos gratuito",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.clipchamp.com/"
+         }, {
+            "date_added": "13315142456285294",
+            "date_last_used": "0",
+            "guid": "41f94440-d0eb-4241-9dae-af86dd81b867",
+            "id": "111",
+            "name": "color picker - Pesquisa Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=color+picker&oq=colo&aqs=edge.0.69i59j69i57j69i59j0i433i512j0i512j0i433i512l2j0i131i433i512j0i433i512.1288j0j4&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13315414480432748",
+            "date_last_used": "0",
+            "guid": "48e091a5-c7cc-4481-87ce-8c1e5be1a6ad",
+            "id": "112",
+            "name": "HISTÓRIAS PARA REFLEXÃO",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.refletirpararefletir.com.br/historias-para-reflexao"
+         }, {
+            "date_added": "13316964626611068",
+            "date_last_used": "0",
+            "guid": "c512e54d-cb91-487b-82aa-cbd5f5488cac",
+            "id": "113",
+            "name": "Assistir Miraculous As Aventuras de LadyBug Todos os Episódios (HD) - Animes Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://animesonclub.com/desenho/miraculous-as-aventuras-de-ladybug"
+         }, {
+            "date_added": "13317383935711252",
+            "date_last_used": "0",
+            "guid": "0c261ea8-a5bd-4ebe-b5d2-f6a145053826",
+            "id": "114",
+            "name": "Omens - Minha conta de paciente",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://omens.com.br/me/home"
+         }, {
+            "date_added": "13317984043308195",
+            "date_last_used": "0",
+            "guid": "62a4b039-7e53-4cbf-96ec-0663cf49ad56",
+            "id": "115",
+            "name": "Bom Dia Ajuda.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         }, {
+            "date_added": "13318028888998665",
+            "date_last_used": "0",
+            "guid": "5426592b-97c2-47c2-a26c-b6ba96b06756",
+            "id": "116",
+            "name": "Belas Imagens e Imagens Gratuitas | Desespirrar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://unsplash.com/"
+         }, {
+            "date_added": "13320317493462125",
+            "date_last_used": "0",
+            "guid": "dcc4f0af-dfc1-4dd2-a793-1ad8935131d0",
+            "id": "117",
+            "name": "Forge Of Empires",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://om.forgeofempires.com/foe/br/?ref=gab_br_br_gold&pid=1542_1023541&external_param=a23eaa19b3b74d1cb91d4faee8954d0b"
+         }, {
+            "date_added": "13321375535185244",
+            "date_last_used": "0",
+            "guid": "9cc5a478-bb8a-43a9-8d44-ac4fca90d2a0",
+            "id": "118",
+            "name": "Assistir Miraculous: As Aventuras de Ladybug Dublado Todos Episódios - AnimesUp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://animesup.cx/animes/miraculous-as-aventuras-de-ladybug-dublado/"
+         }, {
+            "date_added": "13321575104937159",
+            "date_last_used": "0",
+            "guid": "530264db-543b-42d3-aee5-184f9c0ad2a7",
+            "id": "119",
+            "name": "Detectando a Conexão de Rede com Flutter | Luiz Marcus",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://luizmarcus.com/android/detectando-a-conexao-de-rede-com-flutter/#:~:text=No%20post%20anterior%2C%20eu%20fiz,utilizada%20no%20Android%20e%20iOS."
+         }, {
+            "date_added": "13321803061293019",
+            "date_last_used": "0",
+            "guid": "8ddb508d-50eb-4f81-bf49-53ff724f9ffe",
+            "id": "120",
+            "name": "Miraculous: As Aventuras de Ladybug - 5ª Temporada - Episódio 11 - Deflagração: A Escolha dos Kwamis",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://redecanais.cx/miraculous-as-aventuras-de-ladybug-5a-temporada-episodio-11-deflagracao-a-escolha-dos-kwamis-parte-2_41bf54ef0.html"
+         }, {
+            "date_added": "13322443440528273",
+            "date_last_used": "0",
+            "guid": "f576a898-056f-47f0-bca3-29b4bea1e4be",
+            "id": "121",
+            "name": "Técnicas de Vendas e Excelência no Atendimento",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.voitto.com.br/online/assistir/3640"
+         }, {
+            "date_added": "13324852856994129",
+            "date_last_used": "0",
+            "guid": "4d80145b-c817-4eb8-8cb3-7f3c557e1739",
+            "id": "122",
+            "name": "Hotmart Club - 01 | Introdução ao GIT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://comunidadefechadatorneseumprog.club.hotmart.com/lesson/a4RLwYRR7n/01-or-introducao-ao-git"
+         }, {
+            "date_added": "13325115414207086",
+            "date_last_used": "0",
+            "guid": "16f230e2-f9b6-482c-950e-24d8ffdc7176",
+            "id": "123",
+            "name": "CPF.CNPJ - Documentação da API v1",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cpfcnpj.com.br/dev/"
+         }, {
+            "date_added": "13326025297722701",
+            "date_last_used": "0",
+            "guid": "e6759f4b-da41-476c-b1d2-e4d8b7646331",
+            "id": "124",
+            "name": "Oração para Quebra de Maldição",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.terra.com.br/vida-e-estilo/horoscopo/esoterico/oracao-para-quebra-de-maldicao,79187e55a7b4d310VgnCLD200000bbcceb0aRCRD.html"
+         }, {
+            "date_added": "13326031831687671",
+            "date_last_used": "0",
+            "guid": "577b41b2-c2a1-462e-a5bc-362717b3833b",
+            "id": "125",
+            "name": "Converter JPG em ICO (Online e Gratuito) — Convertio",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://convertio.co/pt/jpg-ico/"
+         }, {
+            "date_added": "13326113399258468",
+            "date_last_used": "0",
+            "guid": "7493ad2e-7db3-484b-95af-43f7921e708c",
+            "id": "126",
+            "name": "▷ Gerador Número de Celular",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://4devs.net.br/geradores/gerador-numero-de-celular/"
+         }, {
+            "date_added": "13330447592085983",
+            "date_last_used": "0",
+            "guid": "7f1049fd-1413-42f7-9398-ccd88fe3ae21",
+            "id": "127",
+            "name": "Miraculous PlusBR™",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.miraculousplusbr.site/in%C3%ADcio"
+         }, {
+            "date_added": "13331406018184067",
+            "date_last_used": "0",
+            "guid": "67800ae6-9214-4f9a-b875-b49fdec2f698",
+            "id": "128",
+            "name": "Assistir The Good Fight Online HD 720p | Filmezando HD",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.filmezando.co/the-good-fight/"
+         }, {
+            "children": [  ],
+            "date_added": "13332165388241131",
+            "date_last_used": "0",
+            "date_modified": "13332165388241131",
+            "guid": "cfdd50a6-7199-4072-b943-c34b47d82b8d",
+            "id": "129",
+            "name": "Outros",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13322335835271045",
+               "date_last_used": "0",
+               "guid": "798d936e-682b-4e4a-9b0d-95b077be169e",
+               "id": "131",
+               "name": "Assistir A Caminho de Casa Online Gratis (Filme HD)",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://filmize.tv/filmes/a-caminho-de-casa/"
+            }, {
+               "date_added": "13336334036851894",
+               "date_last_used": "0",
+               "guid": "7d4dbf11-7378-46d7-ba66-52b86d744156",
+               "id": "132",
+               "name": "Assistir Homem-Aranha: Através do Aranhaverso Dublado Online - Megaflix",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://megaflix.mobi/filmes/assistir-homem-aranha-atraves-do-aranhaverso/#!"
+            }, {
+               "date_added": "13332468695800378",
+               "date_last_used": "0",
+               "guid": "aa66d9cf-0c17-4b60-84a6-d05f36d6be92",
+               "id": "133",
+               "name": "Assistir Super Mario Bros.: O Filme Online HD 720p | Filmezando HD",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.filmezando.co/super-mario-bros-o-filme/"
+            }, {
+               "date_added": "13342315753342360",
+               "date_last_used": "0",
+               "guid": "ae025223-f11d-4dbd-9189-771aa6229bed",
+               "id": "134",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "A Caminho de Casa (Dublado) - 2019 - 1080p",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://redecanais.la/a-caminho-de-casa-dublado-2019-1080p_901125078.html"
+            }, {
+               "date_added": "13342315772054436",
+               "date_last_used": "0",
+               "guid": "be647982-0758-44df-b4a3-2575361ca855",
+               "id": "135",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Assistir A Caminho de Casa Online Gratis (Filme HD) - Vizer HD",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://vizerhd.biz/assistir-a-caminho-de-casa-dublado-online-1626/?area=online"
+            }, {
+               "date_added": "13343475808060281",
+               "date_last_used": "0",
+               "guid": "1148eb31-c4e4-41e4-b742-091296a07a5c",
+               "id": "136",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "O Resgate de Ruby ( Filme ) 2022 - Dublado - Vídeo Dailymotion",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.dailymotion.com/video/x8nqjpl"
+            }, {
+               "date_added": "13344289556065966",
+               "date_last_used": "0",
+               "guid": "e723d9b9-5d6f-482f-a273-f0d771a16609",
+               "id": "137",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Paraíso Perdido: O Caminho para Eternidade 2 (Dublado) - 2012 - 1080p",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://redecanais.zip/paraiso-perdido-o-caminho-para-eternidade-2-dublado-2012-1080p_4cf2f5c03.html"
+            }, {
+               "date_added": "13344568668715581",
+               "date_last_used": "0",
+               "guid": "0e0801e3-5fd1-4f38-a8f1-c8a71bd4dfb7",
+               "id": "138",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Mãos Talentosas: A História de Ben Carson (Dublado) - 2009 - 1080p",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://redecanais.la/maos-talentosas-a-historia-de-ben-carson-dublado-2009-1080p_b42a00b5e.html"
+            }, {
+               "date_added": "13345254295908096",
+               "date_last_used": "0",
+               "guid": "db251618-5681-4f28-be38-94c19a598f6e",
+               "id": "139",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Molho curry",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://receitasdafazenda.com/molho-curry/"
+            }, {
+               "date_added": "13347906673995566",
+               "date_last_used": "0",
+               "guid": "2e446822-a678-4ba6-bfdc-f9a409adee6a",
+               "id": "140",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "O Presente Perfeito (Dublado) - 2009 - 480p",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://redecanais.la/o-presente-perfeito-dublado-2009-480p_989a8ae95.html"
+            }, {
+               "date_added": "13347906709743776",
+               "date_last_used": "0",
+               "guid": "4d6bc587-9686-4723-a213-fa4b1a748cc4",
+               "id": "141",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "O Menino do Pijama Listrado (Dublado) - 2008 - 1080p",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://redecanais.la/o-menino-do-pijama-listrado-dublado-2008-1080p_bf2ca28dd.html"
+            }, {
+               "date_added": "13347907041560170",
+               "date_last_used": "0",
+               "guid": "f6a5971c-4652-4d20-8c7d-782d9a1798a5",
+               "id": "142",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Assistir O Jardim Secreto Online Gratis (Filme HD)",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://vizer.in/filme/online/o-jardim-secreto-gratis"
+            }, {
+               "date_added": "13347907234535391",
+               "date_last_used": "0",
+               "guid": "e1e7cfe8-f278-4deb-8cea-4d6c3720ffa1",
+               "id": "143",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Pelos Olhos de Maisie (Dublado) - 2014 - 720p",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://redecanais.la/pelos-olhos-de-maisie-dublado-2014-720p_b3058cafc.html"
+            }, {
+               "date_added": "13348509312700467",
+               "date_last_used": "0",
+               "guid": "088da3fb-7d65-4f60-a1f3-e099a9a3eb27",
+               "id": "144",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "A Estrela de Belém (Dublado) - 2017 - 1080p",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://redecanais.la/a-estrela-de-belem-dublado-2017-1080p_b00fa2926.html"
+            }, {
+               "date_added": "13349355662452319",
+               "date_last_used": "0",
+               "guid": "7e73f681-9c94-4241-8863-c661a5b73dfa",
+               "id": "145",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(4) YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13351018533864335",
+               "date_last_used": "0",
+               "guid": "0356b27b-2818-46ed-890d-23e0b3e054c6",
+               "id": "146",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "A Menina que Acredita em Milagres (Dublado) - 2021 - 1080p",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://redecanais.la/a-menina-que-acredita-em-milagres-dublado-2021-1080p_20dda01b1.html"
+            } ],
+            "date_added": "13332468715398730",
+            "date_last_used": "0",
+            "date_modified": "13351018533864335",
+            "guid": "843af982-a6e3-4e62-a5f1-c638f9466944",
+            "id": "130",
+            "name": "filmes",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13333103159828007",
+            "date_last_used": "0",
+            "guid": "640d0333-c705-4057-bd3c-46d3199c8fd5",
+            "id": "147",
+            "name": "GPT4EveryOne - Free Chat with GPT-4 Latest Model",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gpt4everyone.ai/"
+         } ],
+         "date_added": "13351161403143155",
+         "date_last_used": "0",
+         "date_modified": "13333103159828007",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCHI9mV6NAQAAEgAgASoYUXppOHZJcjlvQ2xqSWNrcUxDRVRVZz09oAYMEqsBCFASpgEKHFlBVXc4ZTk1ZnorTk1MUnV4aU9hZmhwdmVZYz0SJGVhN2RkZDVjLTQ3MjAtNGE5My1iMWM1LTUxY2FlZmU5YTRjYRgAIAAoADCSupKSjzE42rqSko8xQNq6kpKPMUoccFFCRmR0Rk9TVVJBZ25FZGV0eXlyejN6L3pJPVoiIiD////2WDZJLzl4MVZIOFUwZ3Q2Y0tXSVdVUnB1MnIwPWUAAAAAEqkBCIsBEqMBChxaYytJTUthTjRrMlhCTFJ0Y3BnUXZEcWh6ZTg9EiRkYjI1MTYxOC01NjgxLTRmMjgtYmUzOC05NGMxOWE1OThmNmUYACAAKAAwqNW3878xOLzWt/O/MUC81rfzvzFKHE9xNU40WUVIWFYyblhIRlV4UGd2ZjlRaHl0WT1aHyId93k3VmdQcjFpVjZYcG00dThXU3FhQVVhL1ZKaz1lAAAAABKpAQhiEqQBChxFaWZkOGtNUSthRE5maTVRRW1wL1NadXRoSzg9EiRiNmMyYzllYy03NmExLTQ2NGQtOWJkMy05OTA5OTg0Y2EzZDEYACAAKAAwgO/w96sxOIDw8PerMUCA8PD3qzFKHFpOZEJhSEpaZGwwZUlOR3hrQ0cwcFUvOHFMZz1aICIe//lOZVRablNSNFJlWEdqMThicjFQR0NLMHdGMTQ9ZWkbIvMSqwEIuQESpQEKHHF3Nm02TXcxN0FUZno1NUlZK2k3WjVDNHlsMD0SJGI5YjNhNzM5LTkyZWMtNDUwMy04ZmVlLTliMzI5NjY3MGUyOBgAIAIoAjDe/cf01TE4nvi3uaUxQIapx/TVMUocSUI2Uk5OVWhvWS9vUmJWUkZmMDYwc1lMRkVZPVohIh////dLd0Z1Z1Q5a0s5RC9KMHVaanU4T2dtYWhqeG89ZdBtImUSqgEIIBKlAQocbkRnK3EvS2VrZTVXL1VBY0pOWWdOWStLTTVjPRIkOGZlZDNhZjAtZmZhZC00MjZmLTljNTAtM2ZjZGQyYTJiOTk0GAAgACgAMPaigIfjLzi0sujg6i9AtLLo4OovShx4NnZVTG56TjJyYTJZZG1Rd3BLczN5cnVLL0E9WiEiH///9kUzcmI2WGdLb1pGb1VldHZDVmF1UE4raS9wYz1l2JcHKRKoAQgSEqMBChxxNTRWeXFXd3lkelVGYit2ZFVKcm1sSWlqNVE9EiQ0ODdkMTAzOC0yMzQ5LTQ2ZGItYjA5Zi05MTA1NmFlN2UyZDcYACAAKAAw+7CU0qEvOI3G5uDqL0CNxubg6i9KHDBNNi9HQW92ZWhsNWpjLzRxeS82QXhudWJIRT1aHyId3nFyTVNNTW9ET0RMR3FBRVZXbmtFam1CL2R6TT1l96560BKvAQhoEqoBChxEbUI1S2NOV05aRjg5czFXVlNnN0JyNFNjdVE9EiQ1MzgzNzdlNy0wN2Y5LTQ0NWQtOTlkMS0wYzIwZjE3OTIxN2YYACAAKAAw+Ob26LQwONyw9ui0MEDcsPbotDBKHG1pcFgvejlCU01vTXJZMDFWMXE1SkxLU3M2QT1aJiIk/////wAAAAR4QUVSQUVsbzlJWVBYckdLQlozRVA5Z21MbVU9ZYUgg6sSqgEIIhKlAQocZ21lbllqUVAxSUZWYmsxdzFoWW05VVF6UmJZPRIkN2E4MmZjNzAtNDljYy00MjE0LTk1ODEtZGI0ZmEyYjFlZGRlGAAgACgAMJXz6tu+MDif8+rbvjBAn/Pq274wShxTc2FmTDlnYW12NW1ZOEJHVEx2U280MStJb009WiEiH////VZCK1dKV0hmOUNWc2IrYjcvZThlOVBSRkJ3Zz1lAAAAABKvAQh4EqoBChxOWFRrM1RHVGh5T21CZzVuelU2OVhWc0hZM009EiQ4ZGRiNTA4ZC01MGViLTRmODEtYmY0OS01M2ZmNzI0ZjlmZmUYACAAKAAwsuyBxegwONLsgcXoMEDS7IHF6DBKHHNsV3lEdURnNy93NjZFS055TVFFRWduM1hmTT1aJiIk/////wAAAAZ4cFc2WE1pUkxSNjNRdm80MS8wcGQ2dTRrbU09ZS+I3gESiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMTA1ZGQ0MzItNzc2My01NzM4LWFlZTItNWJlMzFiNDEzNzE0GAAgACgAML7/3+nLLjjb2eXg6i9A29nl4OovShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKnAQgPEqIBChxmNkt4MnI4NStxblNZZFhEV3JMQUpFamU5Q289EiRiNzkyY2Y5My0wOTU3LTQ3YzYtYmI2MS04YjEyZWFkYzg3ZjQYACAAKAAw+7CU0qEvOLzG5uDqL0C8xubg6i9KHHlwNnA5enlSdld4UGpCRGk0MjBIcktKeVRZND1aHiIcYWswcUpERmJKbEdRU1JFazc0Yk5tTEMxcWlrPWUAAAAAEqkBCBYSpAEKHGdvVXljVTdXZ3R2ZEY5VVpHbFJJek5RYmJpQT0SJDViMmMxODExLWY5M2YtNGZlOS04NWU1LTk1MDhiYjc5Y2E2ORgAIAAoADDCsfvori84ps3m4OovQKbN5uDqL0oceW5mMEhnc0swWGRNUlErYnpXd0xyVW0yZ29zPVogIh7/ukdEUjRFNi9nTFlTckd5aFg5TWpvSW10YzlGRT1lAAAAABKoAQg1EqMBChxic09NWXBqVWNwWldJN3dFaEZRQ2VuMmVJaDg9EiQ3MjlhOGQ2OC01NTMwLTQwM2MtODIyYS01ODFmMTJjMjJiNDcYACAAKAAwpa726LQwOMCv9ui0MEDAr/botDBKHDNxUUpVbk9LVjdiWkZ0UVBLZWFuOExqMDFzbz1aHyIdrFFuOFVrWWFjV2EzUXM3dDNONkdIUUhRTUFZTT1lD8w0FBKpAQinARKjAQocUjd0Y3VJODQzZjFpUU8xb0l4cjk0MGtTa2tBPRIkNDEyYjViZDQtMmYyYi00M2U2LWI5YTYtMmZlMTcwOTdiNGFlGAAgACgAMI/r4OnLLjjY2uXg6i9A2Nrl4OovShxlZWM1TDFmRXhKKzllVk83VE9wdlBJUjNnT289Wh8iHf4zMnNRZ09qc3ZEY1NLV0ZCaFVhQlJEb29qN2s9ZY5EYdoSqQEIYRKkAQocektsY1FZNEgzcVBYd3FXVXBmVElnUUFPdS9RPRIkYTY4OTM3YTUtMTNiOS00ZGY5LTlhMmUtN2MzMjk5MGExYzBkGAAgACgAMIHj7uCrMTjf4+7gqzFA3+Pu4KsxShxYclZzUE1HMkpGOCtINHBwUndJMmVxMmxYUzQ9WiAiHv/zYWpFc295TDJGeitZbkpzbFhhSWtYQlExQ29nPWXoKzT4EqkBCBsSpAEKHFJ5bHRGTmpwdm44ZXFHV3NmeHZxcmhjNWFOcz0SJDdkNTY0MTc5LTExNTItNGY1NS1hZDkwLTY0ZTEwNGFhYzgxNhgAIAAoADDa+f3lwy846dHm4OovQOnR5uDqL0ocN0QrRzhkTStuaWNVNFV1NGZ4Z3ZGWDdTN0FRPVogIh7//nhhaEFXRGd4Mlo1aVJLa2U1SlpESTJlYmpNTT1lAAAAABKoAQgTEqMBChxEcGRRWk41ZXB5eXdRUzBCTytHRnBxVE9kMmc9EiRhYmI0MWY1Ny0wN2I4LTRmMzEtODA2YS05ZWJkNGFlYjIyNGUYACAAKAAw+7CU0qEvOKzG5uDqL0Csxubg6i9KHEVxdjduT2E2OUlFd1hBNWRXT3p6aUgxOWJsdz1aHyId71lyc1RkN3RZTU5WRXdxSjdvVWRLbGZtc0VtQT1l72uXihKxAQiTARKrAQocVE1WdFVqTGNVYzdvSjJzenpIZ3N6SkhFYkw4PRIkNjQwZDAzMzMtYzcwNS00MDU3LWJkM2MtNDZkMzE5OWM4ZmQ1GAAgACgAMMvCqdGSMTj9kanRkjFA/ZGp0ZIxShw0NTZyL1VwRVBhcmdYaGZEVndMV1VpbXQzZzA9WiciJf////8AAAAH+zhrWWZpTTRRVFNoTnV5YnJpY1RjVllGaVJOQT1le0hGGBKqAQhKEqUBChxSTlVuVzdiRXBhdWlSeWJTVC9lbzdzZk9JeDA9EiQzYjg3NTg4OC02MzhmLTRlM2QtYWNmNy05NzRiODI4MmMxMTUYACAAKAAwjvPxyNMwOLzz8cjTMEC88/HI0zBKHGlzcVFBNW1odDd3R1dHcFZNOEZ1b0pRZUMvdz1aISIf///7NEtnMHAyaVR6aHl1ZWZ2bWh2YUdpUFFGRDlJPWX5VYt4EqoBCB0SpQEKHENRRWF5OWFsSDdOL0g0RXJPdS9BWklldXF6az0SJDM4ZjI1NTk2LTA4N2YtNGE5NS05ODQ3LTEwYjBlYmYzZTA5NRgAIAAoADCL+NCA4y845rHo4OovQOax6ODqL0ocUThSS0JtMXQ5TmpHMm43SXZwcW1OWjcrVGxBPVohIh///7ZKZFN5VjIzVGJEYldsQzBnQnJPait1RkNnNTg9ZZRLb6wSqQEIXhKkAQocWXkwNE9XMlhyY1hITUpHbHhOLytsZGNrb0k4PRIkNjE2MjBhMTUtZGYwMy00ZGU0LWE0NDctYzI5Y2JlNmE2NDAyGAAgACgAMPfwnbyqMTiG8p28qjFAhvKdvKoxShxtVnVlZDdHbVVDdXhCNUs1Vk1CZmgxd0RRUkU9WiAiHv+aMlNHb0VwN3J4T0VoYk5ndGp3OG9vRXBLdXhVPWVpGyLzEqgBCBQSowEKHEIzTnRwYUxDdXlzellxRnNHdlM2ZmZlOWZ6WT0SJDc1ODlkM2YwLWE1ODMtNDE5Yi1hZTUyLTdkNmQxYjRjZDE0ZRgAIAAoADCA/eT3qy842Mzm4OovQNjM5uDqL0ocak04Z1U3Yjh2SWpPZEEzODM5cEFORHIvZWFNPVofIh3+VXVCZ1M4b3lsTnJiTzA5UmphLzJtWTV0dDJnPWUT3kJ+EqcBCBASogEKHHhodWQ4OTU1akN0WUwxdHBCamZjYURDUXM3ST0SJDIyNGQ3MmEzLWU1MTAtNDNhMC05ZTlhLWI0NDkxMjJiNTI3ZhgAIAAoADD7sJTSoS84n8Xm4OovQJ/F5uDqL0ocZzZsUHQwOURFWXdmdFRwWmM5b0YrZy8rTXI4PVoeIhx4YURhQjh4MHlNR1ZMNjJmMVg2NEw5WGRVTjQ9ZUfEREISqAEIVxKjAQocK21EUVFuNHJCcHN5VWtiN0xEOUNMazNTYVE0PRIkMWZmMGU1OGEtMjViNS00MGNlLWIyNTItNWY5MTI1ODYwYzFlGAAgACgAMJqRgcueMTjykYHLnjFA8pGBy54xShw5WVBPcGxlbVEyR0ROUUlBQ0p4bEdmMFdqNG89Wh8iHdt4WXYzQ3k0aUtQM2hsdmFjWnZuSHg2SWRMb1U9ZVuFQ2MSqwEIKBKmAQoceWRhY0p0R29mNWlWNHd3V1dzbUt0WlIzZ0lFPRIkZGU3OWRiNjMtMzQyOS00ZjU1LTk0N2QtYzFhNGI5NjQxNDViGAAgACgAMLqQ676oMDjdkOu+qDBA3ZDrvqgwShxBWHMrWFJIcnBITzRLRTVZd2hWTXdneFJ0ZGs9WiIiIP///+9rQzcwaEJueUNUNGlkNHU2WVk2TVRVZTA3MlE9ZX7Q9MwSqQEIFxKkAQocaW11NUoyTjlFa0xRclVMMGhFRExsekVJSi9nPRIkZTkzNTU4YTItOGNjZi00YTZjLWJjMTgtZWQxYjcyNDkzZDBiGAAgACgAMPCOv/GuLzjVzebg6i9A1c3m4OovShwyRytqVUVDd3c2L1BkMERMUU5lMm1ZQ0x3OGM9WiAiHv/dOHhhdkhZYk1PaDhxNk9GbGlPNTdlTVQzZW1VPWW0p6jJEqoBCGYSpQEKHFlGS2pIaWpLbFlFbUJjNHZBS3hpQ2poQU5Qaz0SJDE4MzQ2MzM2LTZhMTEtNDkyZC1iOGQxLWM2NDFkYTc5MWNhYRgAIAAoADCJqOze1DE40ans3tQxQNGp7N7UMUocL1h1cUMyYXBGVWlGa1NPTVlXU2ZrZWZpZmNRPVohIh///70wR1F4V1B4K08vd09hbzFRWTd3Z0cvaDBjcWs9ZbfNL/kSpwEINBKiAQocWHo0NDM5QmFvRjd4a3dEQk8zcitzR1BNd0d3PRIkMjFjNWIxYjYtZDk4Yy00OWE5LTk5OGYtYzhhZjRlZjQ4NTc5GAAgACgAMKWu9ui0MDihr/botDBAoa/26LQwShxucDhwWGYvaVQwaHBiNDZNQ0RxUlBEcXZWVWc9Wh4iHFhFTy9FWkU5bFdXM0l6SElDUUFEUXVjZGZKaz1lD8w0FBKpAQiWARKjAQocakx1dUFYS3Nlcnd6RXkvcThtVkVRNVZQdjVNPRIkNmIzMTkyNmUtZjlhMy00YzI2LTgwNTQtZmYyZGRlOGY3MTA4GAAgAigCMN/9x/TVMTizyebg6i9A+ajH9NUxShxzUjRPY1ZmK05URXZNWGUzRDRUcStRdkNIcmM9Wh8iHdxQa29XRU42UTJjZUtlZ0xDa3QrSCtmVitrNmc9Zacc0hkSqgEIIxKlAQocSHNKVjBTYlBzYitIQjFCS0I1U00rQ1l5NElzPRIkZTU1N2RhMWUtNzhhMi00ZDY2LTk1OTAtOTA5YzA3NzQ5ZjM4GAAgACgAMOXEp62iMDj4xKetojBA+MSnraIwShxwWXUra2dhemZEeWdRNys3aXdXUWdEb3lwK0E9WiEiH////W4ySjRxOWxiRVFqOUxsRE1pc3Fic2dvTTFyRT1l19okNBKpAQiJARKjAQocSmRsaTJraWR6S1ViRXN5YzZkZDluTThaUFRnPRIkZTcyM2Q5YjktNWQ2Zi00ODJmLWEyNzMtZjBkNzcxYTE2NjA5GAAgACgAMKXOtKe8MTjzzrSnvDFA8860p7wxShwySllLbzNHQmFiRGZMMnNCbTVJRklzaFdaRDA9Wh8iHd1TMk1NTkV3MFBoWXhsOWd4MWorOXE2N0Z5MWs9ZS+I3gESqgEISBKlAQocRXJ0eWpaem95SkdYa01Xa25HRGIzZG5PZTY0PRIkNWVkNTBkMTItMzY2MC00NjE5LWI2NmEtNzc2MDE0YzY5MzAwGAAgACgAMIealInTMDivmpSJ0zBAr5qUidMwShxuSU1mZlNYcTYxUUptbUNjWGVQQ3ZwRGhERlE9WiEiH///7XlwZXhuTUdkWXYwMzZFTGsyeHFET0dUK01UYz1l+CXHCBKqAQgfEqUBChxOREFJRXNaQjlWUnFoLzBkTFNaWTFwNHRmL0E9EiQzY2FkODNlMy03MDk0LTRkYjMtYmE0YS0yOWE3MjVkNzEzMDYYACAAKAAwlbiMhuMvOJWy6ODqL0CVsujg6i9KHDh3YXVlcGFkSU9zeCtuSGhWaENpMjVxcE40bz1aISIf///tZmZmV2EwM2dRdFdwcWVrYTlnYk9ZWnQvbmpzPWX2wPphEq8BCHASqgEKHDkvMVVoSERTSEtTVG1RZmZ0ZTdJQU10N2toOD0SJDQ4ZTA5MWE1LWM3Y2MtNDQ4MS04N2NlLThjMWU1YmUxYTZhZBgAIAAoADDD8Nne0DA44fDZ3tAwQOHw2d7QMEocSGg0YmtJMDVuZzlqMVlvL2s4OE03eWRoVTl3PVomIiT/////AAAABWoyVlNrNXlsdmY2SmdLeFBNNmZUbjc5WEFGMD1lRJIF9RKqAQghEqUBChxudnFEY01rZlNEbzNVbk5FZGxueWN1ZVY4N0U9EiQxZGU0MjQzOS0yNWJlLTQ5YjMtOWZlOC05OWFiMTI3OGJhM2MYACAAKAAwiuW0juMvOMSy6ODqL0DEsujg6i9KHEliZmNtVVU3WXZueDFZbnpRSzdqU2VneG1vbz1aISIf///7Yzl6MDVpWVlCcXRRWWdkTTN3eVE2Tm5rUThBPWUAAAAAEqkBCGASpAEKHFk5bHFaYVJ5anN5WHJudTRKY1ZmbDA5VmZJcz0SJDZiMjM2ODliLTVhZTktNDM4Yy05ZmY1LTkyMGQwNGJkNDc4ZhgAIAAoADCF1cm0qzE4xNXJtKsxQMTVybSrMUoceWJhQWpNZnhxOTYrQmVWRUsrcDhCaEVRdy9nPVogIh7/5nlSWG85b0RrNTJibCtpNmtKRzU0aFhVSmlzUT1lAAAAABKoAQgVEqMBChxVbHpqRVZMRnlkek1za1dqVGVGeUFENC9UQVU9EiRhY2NhZDZiZi1jY2Q4LTQyZmMtOWZkMy1mNGYxZmM3NDIxMzQYACAAKAAwwrH76K4vOLbN5uDqL0C2zebg6i9KHFEwSm5ucFNZMitxNlByOVNkMWZjTGp4Zi9CZz1aHyId/3VYcm5EM1J5UTYvRXd0cVJpUVF2bWdMMmFuVT1lAAAAABKoAQgwEqMBChxKK0M2Zlg1YVBHWmZsMDVpMGlVVitMSXM2UG89EiRiNmUyMGMzYS1mZTVkLTQ2M2QtYmViMS1jNGQ4MWYzNzVlNTYYACAAKAAw5Kau/bUwOLnM5uDqL0C5zObg6i9KHDFES3IvMHlidEhFNjcxQnlSaFhaRjlvZ25Uaz1aHyIdBThZZjR5MnV6d0FSVVF6TmF4WStWRW9EM2RSVT1l+S4E1RKqAQiRARKkAQocNGU5bmRKL0ZacU1PNll4ZmpxckdDbFVoVEJ3PRIkN2U3M2Y2ODEtOWM5NC00MjQxLTg4NjMtYzY2MWE1YjczZGZhGAAgACgAMKeZj5fPMTj8mY+XzzFA/JmPl88xShxIeUR3NHhMY1pyMUJHQlFsNzVlb0ZkdWkzalE9WiAiHv/bTTAveC9tdkpCMi9QaUlHcGVXR1hFeGl4M01vPWU4+TkzEqkBCBkSpAEKHGlVY294MDViQVczMTJFUWNpQm5xb1dkU2lJcz0SJGM3YzhhZDVhLTBiOWUtNDMwMy1hOThkLWFhYTU4MjhhNDVlORgAIAAoADDyq8aTuC8478/m4OovQO/P5uDqL0ocL1hKU21ZMVBwcjRmS3ZoK0ErMERMeGs4Y3dZPVogIh7/93A5dHNQekpYb09ld29ES0NFemY4dEJnRWlJQT1lQtAOhRKqAQgkEqUBChxGK3Fuem5qY2RERVFwUm5lSnFUamRTR3JqM3M9EiQ4MThjMWM2MC1iM2RjLTQwZjktYWNhYi0wOGMzOWU1OGIyNGEYACAAKAAwzsKz/aMwOOLCs/2jMEDiwrP9ozBKHG5VM0JacUw1dEljMytwQzMyVXhUeGhPWDg4RT1aISIf///+dDB0ZW5pVVViOUJZdGsweFB0aFE0d0lEVG1FPWXFz5ABEqgBCFYSowEKHFREUDRQT2VETVFzKzBXZ0JxQU5EakRjcnBnND0SJGZmMDYzOTVmLTk3NWUtNDU4Yy04Yzk5LTRlMjMyNzA1YWI1MhgAIAAoADC43PH/njE4pb2d7ZUxQKW9ne2VMUocSzR4bHlmcCtvK0UzNEsxVzNoaU91SlZLbTdzPVofIh23M2V3MUxodEJOYzV4dkJrRUdSbkU0REZia2k0PWULZCYNEqgBCDsSowEKHEpLV21aRzRYVFVxeVlDcFpzUnlQQTRxMWxIVT0SJGMzOTJiZWY1LTQ1OTMtNDI5YS1hMDI4LWNkYjY1N2I3OTZiNxgAIAAoADCWtceEtzA4sLXHhLcwQLC1x4S3MEocczl0YWFCZ2lWdzBqTE5rVHhKQ2U3aEd5U0ZFPVofIh3/VzVFb0dRSklDSTVEYjFLd25mczZJaFNGWGhRPWWSExvpEqoBCCUSpQEKHCtFOU05ZlRZU2puNWpybDYwNmR2YXZWV2xKZz0SJDEzODhlZDIzLWZiOTItNDMwYy1hOTQzLTA1MzVkZGY5MzlmNxgAIAAoADDvwfzIpTA4lsL8yKUwQJbC/MilMEocMElkOEhWWHhsL2NoSWFicUlKcUtlM1dDYUc0PVohIh////95TGgrdW43WkJEd0d0R3JBMS8yKzdRbVozOE09ZV/5egISqgEItAESpAEKHFp5V3ZLUW5ESlZyQS9Vbkl5M3doZU1naGEzcz0SJDEzMDZmYWVmLTRlMDAtNGFiZi05MWQwLWFhNzE0ODM4ZGI0MBgAIAAoADDn5cWBoi8428bm4OovQNvG5uDqL0occWRiaDI0L0RqVmtleDJRcnduTHJMTEtxYzk4PVogIh7//2hjbFJQSTM0QksvcTNDZm1mdUpBbzcrQ1R0UT1lAAAAABKwAQhpEqsBChxZQk5MRDdYTTZUTkJrclFub0ZpNHFoY05qT009EiRkMGYxNTlhNy1lZjA3LTQ0NzYtOTUwOC02MDY4YWNjMWI1ZGQYACAAKAAw/pXSotYwOL3Goq+5MEC9xqKvuTBKHEgvanlCRFNDMUFuSXdqTlZLdWRmUWtPa2dMWT1aJyIl/////wAAAAS8RUtvd2xCYmdsWHZVcVpaalN0a3FHcDBuMXowPWVsxPOyEqkBCI8BEqMBChx3RVBxMUg1aHVTdExYellNVE95WXhIUTI0Rkk9EiRlMWU3Y2ZlOC1mMjc4LTRkZWItOGNlYS00ZDZjMzcyMGZmYTEYACAAKAAw/5K65MkxOOWTuuTJMUDlk7rkyTFKHHlaQ3JNOHNabHI5VlovdDg3QTFVeENLRUo4az1aHyId/2x4RGFseEpkNW9hNS80ZnNLaEF5eXhFQll1VT1lL4jeARKoAQgtEqMBChxRNFpBckhmRFZpcVBCSVRMMWpORWxLaDJ2Rjg9EiQ3OWRkOGEzZS05ZDI5LTQ2MjktOWFiOC0zOGM3MjUxMmUzNDYYACAAKAAwoP6v/bUwOPvQ5uDqL0D70Obg6i9KHHZYR0N5eFVBdVdtMENvbkEwMVlYd3QvMU9PST1aHyIdAGhVN3JUSlFRd3NSdGRydzVQSThnVDE5eWwyRT1lMIB4mxKoAQgzEqMBChw2UlRrWXBoUjFwKzRjcllwN1d5YkhMc0ZwMms9EiQ5MzgyNTU4MS04NWZhLTRlYzgtYjZiOS1hNTRkMTNmNGY2YjQYACAAKAAw8Kyr/bUwOPKt6ODqL0Dyrejg6i9KHFlyRXdZQ2xqSmZ6ZFM5eGtwZ3g0VkZwaEFodz1aHyIdLG14a3JPMW53SFhLbGtoRWN2NEpzRjh4RTNvTT1lP6hryRKrAQgpEqYBChxtVFEvZVRudndpdUMyRjRqQ3MxbFZhZkNsOFU9EiQyOGUyMDZiMi00M2YwLTQwNjEtOTIyZS0zYzEzYjk0N2IwMTYYACAAKAAwiIW9lqkwOKWFvZapMEClhb2WqTBKHEVFY3d4SE1Xb05Kd1BHWHY1M3cxd3lZQno5bz1aIiIg////91BqVVB3RjBOM0UvcmNWcmFVTGc4YzN5T2VnTT1lVF9XRhKrAQgqEqYBChxyUWR6R0dUbVpYZ3RUNTJ6bmxja0ZaemdjZFU9EiRjNjM0YzI5OC05Y2FmLTQxN2MtYTY2My1kNjVjZWU4NzhiOWMYACAAKAAwpa726LQwOOKu9ui0MEDirvbotDBKHDFwK2xSa2d5ZHoxRjBDdzlZVm1LWENicmFyVT1aIiIg////+3RnT2x4emF2eGJaTUl6TS9jV0QxZEozbDlBST1ldoFMKxKrAQgrEqYBChw5ODRBK1gxWTFYdWFianRZYUpUbjlZakhoYU09EiRiMTgwM2ZlMi03NmVmLTQwMDAtYWU3Ni04MDc5ZTJiMTIxMTQYACAAKAAwpa726LQwOIKv9ui0MECCr/botDBKHE9uVVdmcHZCREFjZUxKRVcwbis3QVNJZWhQcz1aIiIg/////WZ2K2ZNTFIrL3Bpb201YjltMzBWUUtxcnlGVT1l2Rs71xKoAQgvEqMBChwzODZOdUZiV3daOHdEZjZrYVVWZFBxUDBuOUE9EiRhODcxNDkwYi1hNDAwLTQ1ZjMtOWJlNi1mY2ZkODA5ZDE4Y2UYACAAKAAwsvyu/bUwOPjM5uDqL0D4zObg6i9KHElOUlQ1LzZPV29sQVgwTVdWeFBvcHdDTWpkRT1aHyIdAlBQVmJ3cjQ3dEUzRldCN09ma1d6bDB0OHo3Zz1lwnBFxBKoAQguEqMBChx2eFlyMU40R2JzVlpROFZSdDN6bzJhUmV1aEk9EiQzMWVjOWMwMy0xMWI1LTRjZmEtOWEzYy01MDFjM2ZhZWU4YWIYACAAKAAwyb6v/bUwOIfN5uDqL0CHzebg6i9KHFE5ZFFGYmpYTk1CLytwUEQ3dHp5dGtKSHhZRT1aHyIdAU9hbHZ6VmQzcnZKZVRkUEZrWi9qeExrbGF6Yz1lKkpdaxKwAQhvEqsBChxOVmQ3VHlRRlJlQXlSWDd6T2hXR21iWVp4bVk9EiQ0MWY5NDQ0MC1kMGViLTQyNDEtOWRhZS1hZjg2ZGQ4MWI4NjcYACAAKAAw7er+3M8wOIDr/tzPMECA6/7czzBKHHNKVEpyRlVXc1JPcnhXRGQxbzd1OUtxQXZ6TT1aJyIl/////wAAAAT+b2hlSFFzc1VvS2FaTGpCaUdSMXQwc1JNK0FVPWUQMP/kEqoBCKoBEqQBChxxcitPVGxnek4zeU5Eek1VdDlZakVFMjdkdHM9EiQzNGE4N2ZiNi1lNzQzLTRlYzQtYjQyZS1iMWVlNWFiOTBhYTUYACAAKAAwx/fg6csuOKDd5eDqL0Cg3eXg6i9KHERLUjRQU1pzS0ZaZFR2RzZkbGkvQTkvb1hEZz1aICIe/71ZMlIvRFVpNnI3U1d1QTNlQnM2bDMvWEFhYXc9ZW2z60YSqAEIWBKjAQocejRVSjF4bW80N3BaQmhoZ00yT05jTkhqVUdzPRIkOTkzODc2YzctYjM5Yy00NWIyLTk0YmMtOTRkN2I2NjNkMTU2GAAgACgAMK7YtsueMTiU2bbLnjFAlNm2y54xShxNQmhTWWZ6eTBXMHd1R1QxREV0TmRZNTBORm89Wh8iHe1FT0U1QXJkQzRXL2RZdUhocVRIUUNiRmFqdW89ZWkbIvMSsAEIbhKrAQocWnQwb0Y0WjZTWHV4eVJpYWNrMzA1UlMxTDJzPRIkZTEyNzg4OWQtNzFkZS00YTYyLWE1NjctMjM0MWY2ODc2M2NkGAAgACgAMO2k5sjOMDj9o+XIzjBA/aPlyM4wShx5OGRiVHYzOWNBMUV5SENKdmpQYms1SnV3Rlk9WiciJf////8AAAAE/Wd6U3RmeWtsU29FUXV1SzUxVDRCVDAwYldWaz1lbMTzshKpAQgaEqQBChxJalN0NnJPNEFuVWttMVQ2MEU3dHVjUHJMR0U9EiQ2MTUwYWE5NC0wZjFjLTQ5MTYtYjU0MS0wMzczZmMxMzdlZjIYACAAKAAw1LHBy7kvOJrR5uDqL0Ca0ebg6i9KHGl0ZEtqdk14ZS82bEg5aTg1MHBkSUd2OE5GND1aICIe//1nZHJBb3lNZlFVQVVkcGR3WlFzc2thQ0NDRTg9ZQ2G340SiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNjlmYzNiZDQtZTVjZC01YzdhLTkyZmYtNzlkM2ZlMGE2YWU0GAAgACgAMLr/3+nLLjiN2eXg6i9Ajdnl4OovShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKpAQiaARKjAQocaW9JYUUrdi80dXcxMlh5QTkzOXl6MDdSUytrPRIkM2ZmNjdmNDctZGNlNS00ZmViLThkNmEtZWNkYmMyNWVmYjU1GAAgAigCMOD9x/TVMTj0yObg6i9A+qjH9NUxShx1TnBZSXVxQUx1R1ZobVV5T2tEL0JxdDFuRnc9Wh8iHf1oK3B1Rko1bjhnZy8va3NzQXc2SjNxdUx1VlE9ZdfiL2MSqQEIpAESowEKHFVHNWJRR2RYV2Ywb1k5UDBBRUpBVWZsNXBtTT0SJDBlZTAxNDJhLTdmOTctNDBiZC1iMmRjLWE1NWM0Njk5YjYwMBgAIAAoADCh9ODpyy44k9zl4OovQJPc5eDqL0ocNDdDTU9xd0JSM0RJL2hDVmsvMnZmZ09vaGRvPVofIh32aWphYUVaVmdEd2dGcHB2VWpqZC9YZDk5QXpNPWWAsCJ2EqcBCFQSogEKHGNuU1VsQ2xGMW8wK0JuaGJYNk9vQzFqM3U1cz0SJGExZGQ4YTRmLTlkZDEtNDljOC1hZjA4LWVkZGI1ZWYwMTZmOBgAIAAoADDgprmglDE43fm4oJQxQN35uKCUMUocUmZLREpVVHR3TWIyV3BuZGJkd0x4RjhEQjMwPVoeIhxjZ0xXRTdtRkpFYk1yQUdBNTV4QkRSTFp5Sjg9Zeync/0SqAEIMhKjAQocSUJISlBXTHBCZ1hVWFFPQU1oWW1sbWVuRjVNPRIkZjkxZDA3NTctNDViYi00OTNmLWFiM2MtZDc5ZTQwNGFmOWYzGAAgACgAMNeTrP21MDjby+bg6i9A28vm4OovShxIeFlaaVRZZ2RTSFJzODUvaDFUd1lUOWt4c1k9Wh8iHRZ4V0VYbzE1V3g3QzdhZVFkZy9XeHcva0oyYk09ZbZLzuESqQEIHBKkAQocVmFCaXkxREhEWkVSWVBCc1ViMFF0YUNyYkhrPRIkNmM2OTgzMWUtYzM4YS00MmQ1LThkMDctNWYxMGE0MTM2YmE0GAAgACgAMIDAuKzRLziI1+bg6i9AiNfm4OovShx2TDZwdjZnc3NML0pKUDlFZjZvaWFXVGVxdEk9WiAiHv//NTVkcDlMMUxlOWJ0V1NCYkRteWEwMTJ2cGFRPWUx1f+LEqgBCDgSowEKHFN5RXJaWThWU1liVjFEQVNDNE1xQU0yUmQxbz0SJDIxNGQ2MTY2LTI2NmYtNGUwMi04NzQ3LTA3ODc5ZjE5MDIzNhgAIAAoADClrvbotDA4/6/26LQwQP+v9ui0MEocWElDZFZtclBvNWFXQitLN1VXNk1ZQWYvRU1rPVofIh31N3QrWDNDbkZxd2VTWlh3L3d0Y0FwR0lJeWJBPWUxM69WEqsBCFISpgEKHFFGcjlLYVBha01ja1BzeUFxR1J5V05nYThnZz0SJGFmYTgwMmY4LTI1ZmItNGIxMC1hYjU5LWJlNmVlOTczYzhjNRgAIAAoADDpqZuSjzE4qKqbko8xQKiqm5KPMUocS08wQnRVQ0JQSFRiOG1TM2dEN2dIa3duMG9ZPVoiIiD////7MXJ0dEJWQ04wZExCVEpNQWZrQzgwcGF4ejNZPWUAAAAAErABCHsSqwEKHDFySXdSdE9CWGtNZHplYVFZSS9uSjRicnVSbz0SJDE2ZjIzMGUyLWY5YjYtNDgyYy05NTBlLTI0ZDhmZmRjNzE3NhgAIAAoADDy7rvw9DA4me+78PQwQJnvu/D0MEocSlVTalRNYkRyMTJEOEdTWVhxMEtucWdFRW9BPVonIiX/////AAAABvdwWncyWHdaRVVoYkZtOGwyNXFKcnJVWkI2YzQ9ZRThhNASqwEILBKmAQocZXUwdWplTTZyK0lFRWE1TmxhZFB5M25CeE5zPRIkYjg4OGMwMGQtN2UyOS00NGM0LWFkM2MtYTg1MjBkN2E1MGVkGAAgACgAMKWu9ui0MDiRr/botDBAka/26LQwShxzVEUyTFVvaWQvZEk1MVpGNjZrNHVXWmJlRzA9WiIiIP////5CWllyQU9rbDVGL2NQSUdacVN5cDlDVzkyQUU9ZQAAAAASqAEINhKjAQocQmdTWEkyZHZuQi9KS3M4d09PcVdONnUveWhZPRIkZGExMjRmM2EtZmZlOC00NWZkLWIyZGYtMGYxNjc0ZjgwNmRhGAAgACgAMKWu9ui0MDjQr/botDBA0K/26LQwShxJNEwzWjZ1dUlEbW81ZGw3WUFjbWljemxHaDA9Wh8iHdZUWWhFcXA3dithQSs0KzdmZVBSQWZ5dlBvRlU9ZV/KOXcSqAEIOhKjAQocS0ZJRmU4RkE1UzViV0xMZ3lnYkFiaE4vU2tNPRIkOTEyZWM5NzgtYjNmZC00NTA0LThkZGQtZWYzNzYxNWI4Yjk5GAAgACgAMPjm9ui0MDi9sPbotDBAvbD26LQwShxyMGRlMit6RVZ2aS84RGtIbVFRVjdkSllldEU9Wh8iHf54bWd4akViTnNTNGtkRDFDZXZPS280ekdQRTA9ZQvwUvISqgEIngESpAEKHHloMm1nTTYvZ0pFdFFlU21ORE10Vkh0M2hwWT0SJGZjYTliOWM0LWNlY2ItNDFiYi1hZmNmLTAzOGUxMTFjMTcxYxgAIAAoADCl9ODpyy44gd3l4OovQIHd5eDqL0ocVDdYWS9FZStsZUZFNHlWRUZvZ1Exclc2U2t3PVogIh7/3m45R3h1MnRCdGxMSGcyNlRGemJTSm5mSzRRQT1lAAAAABKpAQg8EqQBChx2bktEYTd0N09MU1cxQndjZDNCU2NWVHRINnc9EiQ5ODkwNGVhMi1jMTQyLTRjMDctYWQ2ZC02YmRjZDEwOGNhNGEYACAAKAAw/ue2hbcwOJvotoW3MECb6LaFtzBKHGcvUUZNc1dMT2dCaDRNQTE2M1RRYnNrQUU3az1aICIe/6s3aXIxVGJ2ZGVDN2dzcWpLUjRIdHlyWDRIVVU9ZW43wsoSqAEIORKjAQocT3FRcUp5UCtqQ1I5UHpkR21WNVFPYVl6SmZZPRIkMzRiOTJlNjctMzk1NS00NjZjLTkyMGYtMDJjYjdmOGY4YTM2GAAgACgAMPjm9ui0MDitsPbotDBArbD26LQwShwyOWpHc0NwYy9ueU9WVHRxWjllTnpWd0NMQUk9Wh8iHf1iODFkYTQvV1I3aGprUTNvRjd6MjBmSUJkaGs9ZeUgsV4SqQEIPRKkAQocSGV5YWFEVGNXR0xsb0lWMEhtYUt4WXVWSUJRPRIkMjBjMGExODEtZWMwNi00ZTVhLTllMzMtNDYzYTExNTk5MmM2GAAgACgAMLWR9Ma8MDjRkfTGvDBA0ZH0xrwwShxrMUVjRGp6cXErd3VoWmVvSXJ5ai90RjFrQjg9WiAiHv/VeTVtejRHdmlRV1ByZzBQdU1TWTVsUjQrN3h3PWUAAAAAEqoBCB4SpQEKHExBaHhUbG5HMmtIUlRhc0xxaHc0ejRmTE5jMD0SJDIzYjljMmY2LTE3ZDUtNDU2Mi1hMTU1LTA3ZGJhYjA2ODMzNxgAIAAoADCj8auB4y84hrLo4OovQIay6ODqL0ocdU56Wmpaa1RyVlJmMFRVNzJrUDdCSlE5OU9jPVohIh///9sxdE9qMkRoMk9TL2Y2T3lOaHFWNnUzNUgwQ3c9ZQBjk58SqQEIGBKkAQocbHFLTmlScjQ3Z3d1WXFtNzBheDVTWDEyYXFzPRIkNzk0MWQ2ZjItNWI0NS00NTZmLWIxZDktZTc3MWFjMTE3OTQ4GAAgACgAMJLmjeq3LziUzubg6i9AlM7m4OovShxRbzhNQ0xrM05TMEcwTG5uSVVieXQ4MkhROUk9WiAiHv/uNHFYYTZpVDgvV3VTN2VmSEFRdXZ3M055YlpVPWUAXhFgEqkBCJcBEqMBChxPbnJTYkJMOVZiQU1HK29pVXI2VXVZT0pwVjg9EiRiYTIxZDBkMC01NzhlLTQxMjctYTQwYi02M2MyZGRjZTZjZmUYACACKAIw4f3H9NUxOJ3L5uDqL0D5qMf01TFKHDNLQTNyZmE4b3NKZzBYaUNIOFpEdjlmTCthcz1aHyId7nNMTHA2NEQ4c0xsazNqbG8rZVVBSDZ1bE5yTT1l4DgjqRKnAQg+EqIBChxrbnFXM2w5MnllWDdhZ21IRFk3ZktVWCtGQlk9EiRmYjQwNDEwZi03NzYyLTRhMjgtYWRkMy02Y2JjZmQ3NDU0NjYYACAAKAAwuZL0xrwwOIWu8sa8MECFrvLGvDBKHEZpcVJadHRrbTNuUE9aZVdtQ1l5Z2pyYWdBbz1aHiIcU3BGSmdxSXppZ0FBeUFBNmtMbjhxbkpGdnZZPWUIDEouEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDA4MzAwZTYxLWUwZGUtNTAzNS04MjdiLWU2YmMxM2M5NTZjNhgAIAAoADC5/9/pyy44/djl4OovQP3Y5eDqL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqQEIQBKkAQocL2x5VGZyc0xYbVRDeDRsRkRZLzRrT1dFZUtNPRIkMzQyOWExMWQtZTk0MC00NWJlLWI1NTYtYzk3M2VjOTA2ZDcxGAAgACgAMLamkZC+MDjSppGQvjBA0qaRkL4wShxDRGRsdE1ST3hDWkYwZTRSV0VXelRMQWk2eEk9WiAiHv/1ZFRvSmU0U1Qzdk1yMVBGM0RQMmM0a01IcGEwPWVIZEBXEqkBCEQSpAEKHHp0VFV6MlU2K2VBd3RQOHd6TVZZZEZOaTNGVT0SJGNlNjBlNzE3LWFmOWQtNDk3YS1hMDUwLWYyYzdhMzcyN2I4MxgAIAAoADC3q//jzTA4sv/+480wQLL//uPNMEocNXE0dkxCWlRGbEU3TDJOSzM3eG9KTGtUeVJrPVogIh7//1dFKzJtUkpCcUU0ak41L0pVdU5JZDJrMGVUOD1lvf+pLRKwAQhsEqsBChxkZ1ZvRlYrZENVemw0SjZyVkJWdktML1JLUzA9EiRjMDZhYWQ3OC0zMzQ1LTQ5ODktOTc2ZC01Mjk4OGVlODg2YmYYACAAKAAwjtq128cwOLTatdvHMEC02rXbxzBKHHJrbjJJYmFJdTJEZHNzMFdMbDF1V05RUjZHVT1aJyIl/////wAAAAT3dHV4blljdjROYzRUblJuOVp1N2RYMk1yWmNZPWUviN4BEqgBCIYBEqIBChx6NERoMXJrL20rS0w3RGFqZWI5dlJpZVd6OVE9EiRhZTAyNTIyMy1mMTFkLTRkYmQtOTE4OS03NzFhYTYyMjliZWQYACAAKAAwhKzqt8kxOKGinfq0MUChop36tDFKHHB4TWs0d0JmYlNNMGxQYXZLSk0ySDZFcElpUT1aHiIcTVR6TVRLVGw1M3hCaTJMaS9RZjhJVkw5eDlFPWUviN4BErABCHESqwEKHExHNHFGbmRObllpZWU0dGlSVnh4WUJxVHNrYz0SJGM1MTJlNTRkLWNiOTEtNDg3Yi04MmFhLWNiZDVmNTQ4OGNhYxgAIAAoADCVtuWf1zA4sqbvwdYwQLKm78HWMEocblZXSlFZbEVUVis3ZnNPcEtkU2hVMmxJek44PVonIiX/////AAAABdphY2hXTHdGZVNnd0RqYzdZUFVsSDBYQnhoK0E9ZbdqTJcSqgEISRKlAQocZm81Ti9RUmFoMUU4aGw1YVdFMVN1RWFjL2g0PRIkMGIyMjU0N2UtZDNmMy00MTY2LWI0NjgtYzI4NjAzMTIzMGE2GAAgACgAMLuarZ/TMDjOmq2f0zBAzpqtn9MwShxLVVRwM2ZmZlA1cHk4bWtQVm1oK05waVh0UUU9WiEiH///9jFzTElHaEhjNnB1U2huNE81WElxWjl2YUZPYz1l5llStxKoAQg3EqMBChxBMys1YW8wVVEvSEtweXFkZVUrY3NFUFB2ODg9EiQ5ODczZjc2NS0xMjliLTQxZGMtYTk1OC0wZWJkOWQxMGNlOWUYACAAKAAwpa726LQwOO+v9ui0MEDvr/botDBKHDlOWVlsMlRpRkxQd3NobmE0eXArbFYzeUJ2RT1aHyId60VsYTltekNDMGJZS3RpV3BjSVVsV1NWZzB6dz1lc/p4hBKqAQhNEqUBChxRa2ViQkdQdktGQnpmdzVsMUw1N2FnM2ExTlk9EiRhNThhYzI5YS04NmU0LTRiY2MtYWQwMC00MjM3YzEwOWQyY2IYACAAKAAw8qL3ntQwOImj957UMECJo/ee1DBKHHVRRGFLU09GSzF1VkpGSWtzaXBDcDJzMHpKYz1aISIf////YzFUdlI2dk1Hbzl3VCttU0xnQlhpYTkvd0tjPWWO2KY6EqgBCFwSowEKHHFVbFRUTFA2bWozTTBVZ0pOVCtHT09ickdFWT0SJDliNmRkMTA3LTM2YTktNGM2Yy1iOWViLTZmZDFjMTA2MTMwZRgAIAAoADDoupzUqTE4583LwakxQOfNy8GpMUocTDRJRmRNRDhheGlTc3p6Zk45ckdIaGZ0aUJvPVofIh3/Mnc0THpPM3lCMkxHa3dGY1dKTWYweTFBU1gwPWVpGyLzEqcBCFESogEKHC8zMjNsUjRNRngzbWVxM1JNVVZDS1Z6WVpuZz0SJDQ2Zjc5OWJlLWMzNGQtNDAyYi1hMjhhLWE3ZmJjOTZkYWUyYxgAIAAoADCTupKSjzE4/LqSko8xQPy6kpKPMUocdCtLWUxyVjVwVW1IL2s5dTlKQ0ZmSm93NW1jPVoeIhxhOElCQ0JQZEdEYUZMTkVlNkttaHppNDNzQkk9ZRMwNK8SqgEIRxKlAQocYnJBMk9lZDVHNTh3TEJ5UHBQVU4xRkNrYk1nPRIkZDNmMGI4NTUtZDBiYS00N2ZlLWI4MzgtMDU1NGUwMDk4ZTJiGAAgACgAMMTpiOXRMDjntevk0TBA57Xr5NEwShxUWkRrd1Q0ZEs1WnlTVTBISC9yaXc0ejhOSGc9WiEiH///20d0alVWUGI0U2NSVGpaTEhhYmNzcjRUVjhyND1l2JcHKRKpAQhDEqQBChwzVmJKcDV2L015aStQU3ZUZWo4MUhiVzBzUHM9EiQ3NDM2MGU0Yi0yNjI4LTRiNjEtODYzZS0zZDA5YWE4NGFkYmIYACAAKAAwpJjegsMwONGY3oLDMEDRmN6CwzBKHHpYelVONnpzSmRYa2dnZnh3NWorR2JYaC9kST1aICIe//4xUGdaMENCdjRZUEExaWdhVitaQ051YnI2cVU9ZeUgsV4SpwEIUxKiAQocditYQjVKMnAyRjNRQ25IUlFmMDR0MEhPOEJNPRIkOTAxNGIzOWYtODJjNC00ODY1LWFkMWYtMjRjODU2ZTNkZTUyGAAgACgAMPHbnJKPMTiz0o+SjzFAs9KPko8xShxNbmp2aVpQTkc1MDNYU3BGbnVQMkJkcUo2MGc9Wh4iHFJQYnZCZ09Uc3d6VlhwYU52ZU54NDFNVjlvZz1l+bv7RhKpAQilARKjAQocYUNuaFpuZm56d0RhajRqd1pHMDhDVVh0dmlNPRIkMGUxOGM0ODItMWFmYi00ZjdhLTlkNmYtYzFiNDFiMzQ2MTk1GAAgACgAMNXu4OnLLjjk2+Xg6i9A5Nvl4OovShxpd201NnZKRVRqMkNkSHZ1RUdES3hnRCs2VFE9Wh8iHft6eUxWaVQwbElOSW5MbVRvZjlWSzUzUzZhR2M9ZdXFXQoSqQEIXxKkAQocY3Yyc1dsMnF4QVZLdUkwVHBYN25Ka2VFMWJzPRIkN2UyOGUyYzgtMTA0Yy00ZTM3LWJlYWEtMTRiZDBiYjZmNTBiGAAgACgAMMOCn7yqMTi/g5+8qjFAv4OfvKoxShxGb0IyMG8wR2JJSm9QSFppWEJBL2NZeEIyTFE9WiAiHv/NcUliRFYybDhtNnorMm1IazBvaVRqK3R5N3R3PWVpGyLzEqkBCJgBEqMBChxYanFJb0RjN2JLNzdkOWlKSjg1RE8xWXo2TVE9EiRiNTJlNzU0MC03NDkzLTRiY2ItOTU4Mi1hMTc2NzZkNDVjNDMYACAAKAAwy/fg6csuOLze5eDqL0C83uXg6i9KHEN1UVZ2d3JNRWdCUlFJL2RFZXdvU0pHb1EvTT1aHyId90pFWEV2MnlFYUJ0UUs2T1paeGZaWDlsN0RNMD1lAAAAABKpAQihARKjAQocd3Q3K1lwZ0tyUFg5OUM1VFNQcjYwM2czODgwPRIkNWI4YzMyOGMtZjYxYi00OWJhLWE0NDQtNmJhNDk3MmNhNjAxGAAgACgAMNTu4OnLLjjF2+Xg6i9Axdvl4OovShxEM1JiS2F5VVFwdFZMUW9DdnpGSnlLUUF2cnM9Wh8iHbFiNmVUN2F4bmxacDFWOUl2R2l1ajQxRytLWEE9ZT2wQQgSqAEIXRKjAQoccXBHUWYyR1dWTFhVTEZBYW1qZGc0VFlwU0JnPRIkOThmNDhkZDctNDljMC00NDNmLTgxYTUtMmRiNDViMzg3YjIxGAAgACgAMOjPz9ipMTiI0c/YqTFAiNHP2KkxShw1clRvdUxHYm0yQ3dTT045QXpudDVzdjlkRk09Wh8iHf80cWJpdXFXKy9DUk5iVHZBbll3b1NnTDc5bkE9ZWkbIvMSrwEIfxKqAQocSWhland5RkRGWW9ab0loRDBFUFRGRHc5QjhFPRIkN2YxMDQ5ZmQtMTQxMy00MmY3LTkzOTgtY2NkODhmZTNhZTIxGAAgACgAMJWXht+IMTjFl4bfiDFAxZeG34gxShxQYVE0Y3hBSkt4SGM5VmlWd1ZWQ3hTOCtsY0E9WiYiJP////8AAAAHVzd2bFVRbFc5bzd2NlZ5V2dpOEZOclV4cGd3PWVH3LGAEqkBCIMBEqMBChw4Tm14VHEvM2hBa3RLcEZLNmFuNGp6WENpZjQ9EiQ3OThkOTM2ZS02ODJiLTRlNGEtOWIwZC05NWIwNzdiZTE2OWUYACAAKAAwr5iU+rQxOJDVh8PqMECQ1YfD6jBKHEw2WTdWTzdRSUI3OUpBdzhScmhqcWFuWjFtZz1aHyIdE1M1Nit6L3p6V0hKSk5CUUNxZitkeW84MUJ2TT1lcDROABKoAQhZEqMBChxWbjk4ZmdUSThlZFF2K1BDOVhycHNMeWE5am89EiQ2Yjc4YTFmMC0yYTA2LTQ1NmQtYjgyMi1mMDZlMjI1MmY2ZWIYACAAKAAw7bCnwp8xOLWVp8KfMUC1lafCnzFKHHNvZmRtZkdMN3M3amFTZnhEcE9PWWtFMlBSOD1aHyId9mdoTHN5MmlrYkhlR25jZ0J1WmZzS1dNclRyUT1laRsi8xKoAQhaEqMBChxCRVIyTm5FR0xPdDNsTDVxMWgrcUFvb0dsNVE9EiQ5N2M0YjU5NS04MjIzLTQ3ODQtODk2Yi1mZDYzMDc2N2JkN2MYACAAKAAwj5qywp8xOPyassKfMUD8mrLCnzFKHFJsM2RVM1QxRUdYOVFpZmpGN1IrRHNlTU9BUT1aHyId/UEzNmZEUjZ2UVpuRHFaeEZhNEJmUC9ZQUl1az1laRsi8xKoAQhbEqMBChxQekRKZGVhR3A0VGV0Rm96MjFwaG96R3pwSFE9EiQ1NWMzMDY5OC04NjQ4LTQwNWEtOTZiYy1iMTNkZjk5MjhjY2IYACAAKAAw4bSbl6ExOOm1m5ehMUDptZuXoTFKHDJ0RUdmaXQwcGtlUnRaQm41MVBtemRIWFBFUT1aHyId/khvdFdDenBaMXU3THNsNmlnRjQ0a2VvME12MD1laRsi8xKrAQgmEqYBChxIV1ZBZGE5bU5QT054aWdZVkxhNmFQR0FSazQ9EiRkZjM1ZjgwMC01YWJhLTRiNjMtOWJjNi1kNjRlY2Y3NGNiZGIYACAAKAAwxcus1aUwOPbLrNWlMED2y6zVpTBKHFBkWnQwTTMyN3RJbmQxRExVaHlQbURXdFd0VT1aIiIg////3jkwNHhUU0xyYTcrSEJYTFQxUUI2bFlvZ0szYz1lAAAAABKqAQhMEqUBChxhMlZnVnJyYUpWTXhMTmMxMTcvTTFIdS9IOE09EiRhNzEzMjM3NC0yOGJlLTQwMTQtOWYzYi02NmI0ZDExMDllYzkYACAAKAAw5ODT7tMwOP7g0+7TMED+4NPu0zBKHDNNNlROKzdhYnptOEpHeHgrKzM3cVR4YTkzYz1aISIf///+VFpYNEhrcGlrSXhOV2JRZmJqQmRGbytmVnJNPWVCcP1OEqkBCIoBEqMBChxpKzJLN3pRYUgrb1VoVWt2cmVwamcwR0ozREk9EiQwZTA4MDFlMy01ZmQxLTRmMzgtYThmMS1jOGE3MWJkNGRmYjcYACAAKAAwuKTArL0xOPqlwKy9MUD6pcCsvTFKHGYzQUpNNlJrZ3N1N3ZQaUxBWk8xeXVUcHRLdz1aHyId7mJqVTQySExDdm1Hc2xuK2JkeTBTN3pCVWxYQT1lAAAAABKpAQhjEqQBChxlSWJOZzI1c1pBaDFlcTJ6eHl5YUF3R0xqcXM9EiQwNWI5NWMxNC04OTNlLTQwMDctODM1NC05YzE4ZmM1NDQ1MmYYACAAKAAwg7zXiqwxOM2814qsMUDNvNeKrDFKHGUxS1BXaFdHY0RRMG1KdUdXSi80aUQyc0pLRT1aICIe//wvTVdvdytZeXhjd2svMWFnN3ptZVN5WU5VNWs9ZegrNPgSqQEIZBKkAQocVndZNUxCYmZNYy9CdHlYaURGYnVxRHR0eTI0PRIkYzhiNTAxZWYtOTJhNC00NjVkLThmNmUtYzY0MzdhYzkwZmVjGAAgACgAMIe7742sMTjVu++NrDFA1bvvjawxShwwSkZxeFhuWnNXYXF0eEFnb3pmR01aZDZjdEU9WiAiHv/+ck5CQStCYmM2QlFoN1psRkRNeEMrMXNMKy9BPWXoKzT4Eq8BCGcSqgEKHGd3djZxMEU2K0FVQ09Odmw0dERhaUh6WXZ0TT0SJDJlYTE1ZWRiLWVhMTAtNGY4NC05NTU4LTU3MDI5YjRkOTE2NBgAIAAoADD45vbotDA416726LQwQNeu9ui0MEocOGNCMTI2bWZPZjBSZG9kdGcrNTBzM0hXVHE0PVomIiT/////AAAABDE4cjFtTFZVbnk5YmU0dUppR1ZraVlrdjFyOD1lxYa2tBKwAQh8EqsBChxzTDFlS1Y0dllZYXN5aTF6bDdKQUlrOVRxTkU9EiRlNjc1OWY0Yi1kYTQxLTQ3NmMtYjFkMi1lNGQ4Yjc2NDYzMzEYACAAKAAw4eiqovgwOInpqqL4MECJ6aqi+DBKHFl5Q25WcloxVVYvcThOWHlKano5cFBMZ3Rtaz1aJyIl/////wAAAAb7cVRMZ3lUVk94R3V0VXdGS3lJRlMrcWhHQnV3PWW7QfEFErABCGoSqwEKHFZXd2lTcW40Q3FwMWI3TWRkdmxCRU8zclF0VT0SJGRlOTkxZDIzLWVjOTUtNGEwMi04ODRlLTgyNWUwYWU5NWVlZhgAIAAoADD9pNHevDA48e3Q3rwwQPHt0N68MEocdlRMUVpmdWpaRVo2OU44b3d3NC9hbVRHUlZBPVonIiX/////AAAABN5hRzl4SHVONTlTRGlDWHhwbmJGYjl5SjFOb1E9ZVRZsQASsAEIcxKrAQocWTQ1cVVhNXllMGVwM3M5V3F4bFpUS0hZckNBPRIkNjJhNGIwMzktN2U1My00Y2JmLTk2ZWMtMDY2M2NmNDlhZDU2GAAgACgAMI/h39f6MDjexPun2jBA3sT7p9owShwrMkU4TVdPRFRjOURBK0JEV0ZrenZ1VDFaSU09WiciJf////8AAAAF9kxmYXk4QWgvandyTndKVzNZZkFMYi84K3ViQT1laRsi8xKvAQh3EqoBChxKazZiQkROOWlib09hd0g2VGV1RnV5eE5QMlk9EiQ1MzAyNjRkYi01NDNiLTQyZDMtYWVlNS0xODRmOWMwYWQyYTcYACAAKAAw9r6o2OcwOJC/qNjnMECQv6jY5zBKHHgzR3pDUjEvOXZtdUtjRXQ2YUtlVFU2OFJQdz1aJiIk/////wAAAAYxOTRSenI5UUpuZUd4N0JvRG5rZ3AzbW1ybGc9ZXvxyCoSqgEIkgESpAEKHGgxUHdOMndDelhDb1pSMjQ3RWR2WXdUbmlZOD0SJDAzNTZiMjdiLTI4MTgtNDZlZC04OTBkLTIzZTBiM2UwNTRjNhgAIAAoADCqh4Ww1TE4jOqEsNUxQIzqhLDVMUocWjZvS2VxVE40cEZxVFU1UHVvSks1U2R5SXZNPVogIh7/7VM0aWJHRDdaUGhtd1Q0N1EvTmI3eGMzUUo4cz1lL4jeARKwAQh6EqsBChwwdi95VEFteVBLOVRjMVM3TnRYVURRNTZ6ckU9EiQ0ZDgwMTQ1Yi1jODE3LTRlYjgtOGNiMy03ZjNjNTU3ZTE3MzkYACAAKAAw1NGi8/MwOPrRovPzMED60aLz8zBKHEtXSXdiNFA0NlNtMUdlYTg3alBCZXZLeFI4MD1aJyIl/////wAAAAbvQ3U5VXZNNVVNMGVYZ0JqQ1g4YWd6bVNXaG9FPWVf+XoCErABCIABEqoBChx0ekFiYzNrZUhlbTVxOTZVN3ZNclVGVUoxWjQ9EiQ2NzgwMGFlNi05MjE0LTRmOWEtYjg3NS1iNDlmZGVjMmY2OTgYACAAKAAwpvGHqIwxOJD7h6iMMUCQ+4eojDFKHFBBaWNwQktkM2hGV2R4NEtXY1dnZ2t1blBVRT1aJiIk/////wAAAAdwbE5JUXJzcXc4TEF4b2pXb2ZNcXFxT3Ewbkk9ZVaBjk4SqQEIQRKkAQoccTJpM0xpY1RDYzF4YVBMQ1MzY0o0YkdlcXJJPRIkMDZmYjY3MjgtNTExZi00ODQxLTkxMmMtZDBlNmU5MjEzOWZkGAAgACgAMMuwqd2+MDjxh+zbvjBA8Yfs274wShxJMm9VUk5kYTVrUVUzdjJXYVJGM0ZaZkNDV0E9WiAiHv/6ZWhHcUdxd2hOR1ZuSXBiZW5HSzFFdUpIWWpzPWWuOdldEqoBCEYSpQEKHG9OME5aSVZLTENCK2srYllZbkpEd3lBVHZsMD0SJDc0NjkzMDhlLTgzNjItNDVhYy04ZTE3LTIzNzk3ZjFkMjUyNRgAIAAoADCU7JqMzjA4s+yajM4wQLPsmozOMEoccmZBK1c3bzJsaUx1VzFSeFYzWnFDOG9aN1o4PVohIh///7ZMQUo4VWJuakRFNjV0OENPQ2NQblIyUTcydkE9ZTNnR3oSqQEIjgESowEKHFNmQ3JuSGF6ZmUwSjRIR2hGUm1lRWc0cm8wTT0SJGY2YTU5NzFjLTQ2NTItNGQyMC04YzdkLTc4MmQ5YTE3OThhNRgAIAAoADCOr67kyTE46q+u5MkxQOqvruTJMUocdFN6TzhoaitYaXJZSU8zY1JZN25lcjFGZDJNPVofIh3+T1BMeGF0Rm9rQzlzcG1jcnlBWGFmMjRwQUt3PWWYaca6EqkBCJwBEqMBChxyU0pJWGFIRmRRcjVBeHgwcUVyNklJV0UzanM9EiRmOTFkOTRkMi0yYTk0LTQ4M2UtYjQyMi1iNDQ4ZTk3MTU5OTgYACACKAIw6P3H9NUxOLzL5uDqL0D7qMf01TFKHHExSEViOWtCMnhBeWFNZWl3cHJRTmRXWmVYdz1aHyId/3lVRkwxTW5ubnB0QnovWFJjRGN3Z29uc0IwZz1lhZh8lRKwAQh2EqsBChxiMW4zVmhYdEZYVzlGQWQ1eGN6NnhKeG84OWM9EiQ5Y2M1YTQ3OC1iYjhhLTQzYTktOGQ0NC1hYzRmY2E5MGQyYTAYACAAKAAw+uWT+eYwOJfmk/nmMECX5pP55jBKHFpLbHgwcUxRMHo2TmhpTU9xOEg3VHRsb0x0Zz1aJyIl/////wAAAAX+QXl3WUVOZzYyYjZhVEdyd3dkRktlSmtBb2tZPWVUWbEAEqkBCEUSpAEKHDhQWi9xeEhTYnlHWlp3WHdSV0ptYW5ubXZoND0SJGVlNjE0N2YzLTU5MTctNDU1ZS05MjA5LWI5Y2EzNTY4NzNiNxgAIAAoADCYzpqMzjA4tc6ajM4wQLXOmozOMEocU00zQ0M2UGdpbWtoWDRrZVFsOFpKZWtPakJJPVogIh7//21kRGtFQmJnYWFtb1BpOUlIRU1jeHpzNENLOD1lCAxKLhKpAQioARKjAQocY2xqVU5Jd0R4OG5TTjNScllCOCs3dldiQk9nPRIkMzM1MGQxZGMtZDE5Yi00NzhiLWE5NmYtZDcxMmMzZDU2ZDkyGAAgACgAMNbu4OnLLjj02+Xg6i9A9Nvl4OovShxHVEFRc2N4dWJNNmFMU3I1WXpQaURCcEZrejg9Wh8iHf9VVjA4ZkN5aFpuNldybzRIN0tUSnVWbEJFdlk9ZXpRZ3ISqQEIlQESowEKHGliVTl5MUdxREFaSHJNRjR6blVFMmpQQXJEMD0SJDg1NjI4ZWE4LWI3OGUtNDc3My1iOTlmLTM3NWQzMDNkOTdkYxgAIAIoAjDk/cf01TE44cnm4OovQPmox/TVMUocaFdrYzNXSnFiQVV4Sldja09jZVMwZERyZWxjPVofIh24QWlkTVdleVI1S0Z3cHJJeWdMRXJScVQxQ1FRPWV+geeyEqsBCLYBEqUBChxhYUtzTzNHa1BvbHFTMUxkc2syRjBNUTdOYVk9EiRmMDdhYzQ1OC03NGQyLTQyYTYtYjcwMC0yYjQ1YWUyM2FkZTIYACACKAIw6/3H9NUxOJnH5uDqL0CEqcf01TFKHEU3SjVOWFo3WUFBVTg5UEg2T09yejRnUGcxbz1aISIf//+8NlQ1TlBsRTdwdmVLRHF0ZlRRYks2SWZpeGJvPWVGBx+oErABCH0SqwEKHDNNYlJZaGtoNVpjWFRVanlYaWp0a2xRWFh1ND0SJDU3N2I0MWIyLWMyYTEtNDYyZS1hNWJjLTM2MjcxN2IzODMzYhgAIAAoADDlzbml+DA4ic65pfgwQInOuaX4MEocTllobWRudlh4cHNqZGpWT21wUnVleFN3OW1jPVonIiX/////AAAABv1TKzZ0S0k1Sy9EMW84RFZWMHhZUzhDck9POEE9ZR/ooLASqgEISxKlAQocMDdDajVCY29YWFozNU00Q1Y4SW0vNll5UEswPRIkNWViMGE3MDctOTcwMy00ODU5LTgwN2UtMGEzNWFkMWY2Zjc5GAAgACgAMNO0vcrTMDj6tL3K0zBA+rS9ytMwShw1cDQ0N3I2dXVHNlFkK3ZKK1d2MGhOc0crVEk9WiEiH////XpjeS9CemR3eE9XQjNLZWk0dGFmZExmN2d6Zz1lS+76qBKpAQiEARKjAQocUFZqRTBONmdVVGlBWG5ZSHhzb3RSRUZtZDhzPRIkN2Q0ZGJmMTEtNzM3OC00NmQ3LWJhNjYtNTJiODZkNzQ0MTU2GAAgACgAMJm8kPq0MTispPbVnjFArKT21Z4xShxPbjlaWXErV2Qva3pjaFVrVGlhY21pY0NUN2M9Wh8iHSZ5QTJnRDhCcUJYQXJQNERaV3Q5Z0JONmNyNE09Zd7JmvwSqwEIThKmAQocckpLNndMbUo5Nmp4NTd2RzMrYjI2Mi9kdG1FPRIkMTQ1ODdiNjUtMzNhMi00NWZiLWFkYTQtM2NjZGY4NzI3Y2FjGAAgACgAMKrF957UMDjAxfee1DBAwMX3ntQwShxGKzcyTTJ1OUpnMGJNNHdlRE96U1Q3d1FEVjQ9WiIiIP///7FMaGFEV0FkbmZwQzYrNHJTOEY3VEpleThGUnM9ZW2gn/USsAEIfhKrAQocK3NkcFBjM05LNFFaUGptUmJjbnNFQ1BIZ3U4PRIkNzQ5M2FkMmUtN2RiMy00ODRiLTk1YWYtNDNmNzkyMWU3MDhjGAAgACgAMLKDrMz4MDiKhKzM+DBAioSszPgwShxIcXVXblJnT0hwUzdXdnpwdnp4a1lYU1BQSUk9WiciJf////8AAAAG/lA1a2RjQms0c1V5MzFoRHh6MnQrc0laaytxYz1lrBr1IRKwAQhrEqsBChx2blkxRys0WkZ0YlkzUE5SSzJCamVVOUJiZVE9EiRmYjc4NTJiZS1iMWU0LTQwNDYtYTQ2NS0zMDA4OTRhZjU5MWQYACAAKAAwiZv68sQwOJyb+vLEMECcm/ryxDBKHDhoRFVYQ2p0TkVma2FwNUIxVStGOXNMUk9SYz1aJyIl/////wAAAATvQnhSVWY5T0RUTGE1TzFBaG1TVWJmdUQ1dDBzPWWTvmxJEqgBCDESowEKHE5QSk5zdURWWXcwSDd6MVJmSlBFdEJnN3daaz0SJGMxYzE0YmRkLTM0NGMtNGI0Yi1hOWY2LWMyZDMyMGFhMTQ5YRgAIAAoADDKv639tTA4qczm4OovQKnM5uDqL0ocRjN3YmM0TitBNWJQZzMzZEhHYVFLNFdySi9RPVofIh0LOU5uVkFnNHl6cG9Pa3U5YkNsS1NETEs5OW93PWXTzQ8AEqkBCI0BEqMBChxKcVlyU2hTcGFKREc2VDJReGdZb2lOczlhSUk9EiQ0ZDZiYzU4Ny05Njg2LTQ3MjMtYTIxMy1mYTRiMWE3NDhjYzQYACAAKAAw2o6a5MkxOMuPmuTJMUDLj5rkyTFKHHo4WEVpMW9RN1k2Z0UrT1RSTkRFWDd5YWxscz1aHyId/VNpZmp5OStMa0dWNCtUaDJYeFpsaUZqOFkybz1lL4jeARKxAQiBARKrAQocYlhWR1N3eWRvMmY2dUJzZXRpRVhCdXZhbkJzPRIkY2ZkZDUwYTYtNzE5OS00MDcyLWI5NDMtYzM0YjQ3ZDgyYjhkGAAgACgAMPX9lJKPMTj4j5SSjzFA+I+Uko8xShxSM2ZxbTdaS0JKNnV5M0JmanZydUYyL0EvZnc9WiciJf////8AAAAH3FYweUZCOGlvU0swcDB5OTNNUU9iRVBaUzZ6az1lAAAAABKxAQiCARKrAQocaVR6clVVV3lZNHhNNVRxUGxHWm5VK2ZsL1prPRIkODQzYWY5ODItYTZlMy00ZTYyLWE1ZjEtYzYzOGY5NDY2OTQ0GAAgACgAMITi5aKQMTj54uWikDFA+eLlopAxShxnNzA3QUwzYzZ4Ni9oQzdJMWtBcDZuNWlMVnM9WiciJf////8AAAAH9zhnZlFJNi9PT2dTdG5oU0c2bm85ajBkUHhrVT1lAAAAABKoAQiFARKiAQocV1lrd05rczdoYnpNUlBPN1dkSmZnWmxVbXpNPRIkYWE2NmQ5Y2YtMGMxNy00YjYwLTg0YTYtZDA1ZjM2ZDZiZTkyGAAgACgAMIXi5aKQMTjNzOSikDFAzczkopAxShxDcFM1MlREZDExSFJWREZhVUttQjhRalIraTQ9Wh4iHE1JdE1wVC9ZSmdlTGlxNFA3aXBOV0RxRkwyZz1lVoGOThKoAQiHARKiAQocUmpBNVhYbE5aUTl2STcvWGdOanhRYjRQd3NFPRIkYmU2NDc5ODItMDc1OC00NGRmLWI0YTMtMjU3NTM2MWNhODU1GAAgACgAMNbVuoq5MTjVtJ76tDFA1bSe+rQxShwra1FFU2VZalJLMno3cUMreEx6Vm9URmlLekk9Wh4iHHZhZEg2bHZaTENwaEVmc0JBWHVwRk1ZaXBjUT1lmGnGuhKpAQiIARKjAQocSUxLa0NydU5zd2Vaa05wbWdmSDROczdQcHJ3PRIkMTE0OGViMzEtYzRlNC00MWU0LWI3NDItMDkxMjk2YTA3YTVjGAAgACgAMOursaO5MTjNrLGjuTFAzayxo7kxShx6bW96eGV6K0VCZWl4Y0RXZlYxUjMrVnlBQ2c9Wh8iHbtveUZ1NGtIRlh5eVkxZUZGU3FlQUNia0lqVDA9Zd3dfFcSqQEImQESowEKHEIwTlVVaXZjRXlJNy9lbmNFOUg1dDNWZENxaz0SJGE0OWE3NjAzLWUzNmQtNGZkYS1iMjNmLWFkNDFlOTY4ZGNhMxgAIAIoAjDm/cf01TE47srm4OovQPqox/TVMUocVzR1OGlOMVIrb3VybmQvM3B5dmN4OVVWVFRvPVofIh37VVdHNHUwVjRFUGp6WjhXSjcwdjJ6U1dQb3JnPWWPmlFsEqoBCJABEqQBChxuUmZCZnJnTjFRcVRMdThaNWF4UUp2bGVqbEE9EiQwODhkYTNmYi03ZDY1LTRmNjAtYTFmMy1lMDk5YTlhM2ViMjcYACAAKAAw9I/Gg8wxOMaQxoPMMUDGkMaDzDFKHFZyTDFTMUVvWUJUb1RUS3A3NHJ3bWNRZXhWWT1aICIe/7YzUzI1QU1PNXVrMU5Vb1Nua1hXNUkzeDZ5SGc9ZS+I3gESqgEIsgESpAEKHFlZMytvcFZBQ3VjVysrbHZiTEplbEtGa1JPND0SJGY0OGZiM2I3LWQ5MDEtNGE5OC04M2NjLWFmNTI0ZWUxNmJkMBgAIAIoAjDq/cf01TE4ucfm4OovQIOpx/TVMUocWWYxbFRTK0U4WGp2ZEVJaHNkMzc4M1MzbjdnPVogIh7//UtlUGNKZUl5a0h4U0ppQ01CTzFBMGw1cHMrUT1lI3IcNRKqAQizARKkAQocbHdIZm5kT0tQckpuU1padWhzVndqRnlzWmhFPRIkNjk2YTVhZTMtYzNiMC00NDdlLWEwZjYtZTFjZTA2MDEwZGRjGAAgAigCMOz9x/TVMTjqxubg6i9Ag6nH9NUxShxva2RweEFqdlRPeHN0T1dQQVhLNlFkOGdGZU09WiAiHv/+b3JyOG05MVZSeUd6cFhHZ2daZ0pQSlR6dldvPWXowSTSEqgBCJQBEqIBChxTbklreWJDWTY5dFhkQVVGTjVraEs1WGlrUms9EiQ4YmZhNjQxNC1mNGRkLTQwZTQtYjVkMC1iYTUyMWJhODBmNTAYACACKAIw4/3H9NUxON7K5uDqL0D4qMf01TFKHCt0NG9sTUxya1BaZU4wY2lHcGoyRG9TQWp6dz1aHiIccFZFTjZLWjVVcVJpcm1rQVJYQjNoZjlneGg4PWXl3xQ6EqoBCKwBEqQBChxsd1J4aFh1VkFlVXlWVGFVTzE0VFN0c1V4bzQ9EiQ2ZGFlNmEyZS1iNmQxLTRmYmItODYxNC03N2E1YjI5Njg2YTgYACAAKAAwyPfg6csuOK/d5eDqL0Cv3eXg6i9KHFRyZTE3ZEh0WHdhcU9iREtsNXVJRU1yUGdxOD1aICIe/+81a3QyeDBQWk5kLytZWmhpSDJWa2I1MEZNdWc9ZQAAAAASqQEIqQESowEKHHIxK3loR3BGeXc5dml5M3JPWnpXQWdRT1gvaz0SJDIxMjViMWFkLTIyNWEtNDRlNy04MDRlLTg1MzMyYjIxOTE0MhgAIAAoADCR6+Dpyy44h9vl4OovQIfb5eDqL0occXY1cTM3K2FxTWZlRlREK2txTGs4VVFrZm9ZPVofIh3/ekdsOHhXM3UzbkErR1R1eDFoRlIvVjdWVDBNPWXFz5ABEqkBCJsBEqMBChxIdmRkWUk3eHRYWllHbU5HVTFOZzdsK0RqYnc9EiRlZTFmN2JlZC1kNTIyLTRlNDEtODA4MS1lODE3MWNiODA1YjUYACAAKAAwxejg6csuOPrZ5eDqL0D62eXg6i9KHHdvMDNIaDFsL1VJMllIZllyaGllbE42Slc5Yz1aHyId/lIvTzdweXpIUEN4OUh5UXNMYTNiL0dRY1hZOD1lAAAAABKoAQgREqMBChxkcnFHYTZxSXNjeEp3RXNwak96Y2dhT0pzTzQ9EiQxM2JlYmRiMi0zMzlmLTQ1YWMtYWFiZi02MjY5OWU5ODlkZGYYACAAKAAw+7CU0qEvOJDF5uDqL0CQxebg6i9KHEo3R0pWdlh4S2xCS0lrVkVsZ256aVlTMFBvZz1aHyIdvGtCL09hcHZkYkNOL3BnaEsxdVZZUzVKZnlYQT1lXl393BKpAQg/EqQBChxXSCtVWk1ZREtxaTgwdzE4REMwcVpmKzMybTQ9EiQxNTM4ZTM0Zi03NjNkLTQ3NDEtOWNlNi0zMTc3ZWRjNWQyODEYACAAKAAw75DX5LwwOIzk1uS8MECM5NbkvDBKHFRxZ3NiNzBMWHU1a0NxOU1INWJTTURkdGdJUT1aICIe/+orcG1oRm1OUUQrMXRTdHlvS1B2QUJiejgvVzg9ZVuFQ2MSsAEIbRKrAQocQ2lHVVdrdlF0aEJsdmhSdHhJUjJGQXZtZzNJPRIkZjA5NWY2MWItNTY5Zi00MGYzLWI2YzktMzA1OWNjOTAxOTEzGAAgACgAMNXenNnLMDjq3pzZyzBA6t6c2cswShwxMkxVVUJDRG5pN0ltRHZVZjNLQ2ZwdWZxTW89WiciJf////8AAAAE+1lRYlpCTjRaMGpDM2lTUVlmaGdrR0xCbmQ0bz1lLuyfyhKrAQi4ARKlAQocL0JWdU5FTFlUOVRQbkQ3K0FuN3dZa01zRjhvPRIkN2RjZDkzYjctNzJhNy00MDNmLTgwNDQtNTMxZTlhOThhNWNlGAAgAigCMOL9x/TVMTjBqJ+DpDFAhanH9NUxShx4a2hPZDFlZEdEcmZNdngyUFRHcHZ2WWtPeHc9WiEiH///7zFNUHBwb05maThTWkE2azN0OENSaW9JWFdWWT1ld9SFZxKwAQh5EqsBChw4Z1Z1Mmk1MTMrUDh5Rm5NeDU2UmN4T0NYdW89EiRmNTc2YTg5OC0wNTZmLTQ3ZjAtYmNhMy0yOWI0YmVhMWU0YmUYACAAKAAwmsmv9uowOKrJr/bqMECqya/26jBKHDQwTzQ3ZVRnMktITFVFeGRuNW5vYURBL1Y2WT1aJyIl/////wAAAAbeS0xpbUdiSkpnRE03aW5EUkZwNlhZRStWcmVVPWXQ1JQpEqoBCLABEqQBChwwSGpMRThicjI2cHRDS2g2ajlrcUQ2VkJMcXM9EiQ1NzJmZDNjOC0xMGFmLTRiMTUtYTFkZS1kMzA5YmJiMmNhZWUYACACKAIw6f3H9NUxOJPJ5uDqL0CBqcf01TFKHEh1RWEyNDVveTRHNXFnNXAwV0o3U21yOUxQUT1aICIe//cxZDd1b3lMNUZyMkVWMmF0SnFFZHZ3WUttd289ZQ/MNBQSqgEInQESpAEKHFJmK1NvbnFmS0JCVW9tT0M0dFVxeHk0NjBuTT0SJGE3ZTE2N2ZhLTc0ZWItNDk1My1hOTQzLTZlMzNjZDM0M2JiMBgAIAIoAjDt/cf01TE4jcvm4OovQPuox/TVMUoccmFaa3orVGdsNmZlR2pSWi9GOUdjVXBSQW1ZPVogIh7/vERsTnplVVZFZ0FvWkNjaWdSM3B2UjRRbFFYOD1lmanhJRKpAQijARKjAQocT1B0VnNVSkZuNWlrM0FFTVQrVElVVHNtRW5RPRIkNjI4ZmNjMGUtZDFlOS00ZWY1LWE4YWEtZWVhY2UxYmQ3OTkzGAAgACgAMNLu4OnLLjiW2+Xg6i9Altvl4OovShxKZk1nUytuejRtKzg0aGh1dWRhcnFhZ3BSMTQ9Wh8iHex0NGJYTkVwR0pGSStBYVdlN01pWndSRWsvN2s9ZRAw/+QSqQEIogESowEKHDQzRXhvMHNVSUVvUlpGT2kwdnhRazEwcWY4UT0SJDI3ZmI1NzM4LWJkN2ItNDYyZS1iNTE5LThhYTE1M2MwMTRlYhgAIAAoADDJ9+Dpyy44rN7l4OovQKze5eDqL0ocekl5UkY2RlU2TURFcVJSa05wTG1EKzZna0pBPVofIh3YSGVrMmx1UXJ1akVpcFlZZWozQzFNZm9ST2dzPWWAsCJ2EqkBCGUSpAEKHEd0QjJ0aWMyVVJYR2paUUVPaEw5Smttb3MxST0SJGYyMDI4YjFmLWExNGUtNGFkMC04NTVjLWRhZTAzODhhMmJmYhgAIAAoADCRuOje1DE4r+7n3tQxQK/u597UMUocV2JvOE5Cc2hYQzJiZ0w4VkdaOERPZkNYVnBjPVogIh7//3ozWkVZbWlvZ0dzRXRpVklBNGdROHZDUWZFYz1lSlsd3hKpAQimARKjAQocUlZOSWxrdTVjd3h5a0d5cUo5SzlSL0ZIdFJvPRIkNDMxMzNhYTYtYjZmYS00NWQ1LTkxMGEtNzcyZDY0MTdhMzVhGAAgACgAMJDr4OnLLjjn2uXg6i9A59rl4OovShxQZGp2dk5rM1ZKbnNXcHd3OXEwa3hVc09rcTQ9Wh8iHf1lTTl4YVpXMG5KWnl0QVRyTDlJRjlWaE83Y289ZWRjKNgSqgEIrQESpAEKHDlsK0UyZ3lDMGxPVjdnd1pWc20wd3lOWktRdz0SJDU3ZTE4NGRlLTNmMGMtNDg0NS05NjRlLTkxNWRhZjM5NjI5MRgAIAAoADCN6+Dpyy44qdrl4OovQKna5eDqL0ocbFRMcXY4K1NCQ0F4VlQ5b3dpV0dhdnlCdTFJPVogIh7/93UxZHBNci9jZ0d3QWNCSmU4NTVRZUdHV3Z6az1lsU+T2BKqAQi1ARKkAQoccnVqR1JnTlQyTVo2RlF2dTdxZWFZaXo1SHM0PRIkYmI4OTE0MTEtZGQ4Mi00ZTZjLWE1MGEtMzE1M2E2YWFmMjg1GAAgACgAMOflxYGiLziKx+bg6i9Aisfm4OovShwyL1JjYnNOU24xa1JsZTNpZ0xQL2JVc1Boemc9WiAiHv//eUdVWldTc2w5alcvOFZyalFQaWp0cVlITXZzPWUAAAAAEqkBCEISpAEKHEcwY0lkVjJaL0paK1I5bjh6WmxIUTJpM1B0Zz0SJDU1MzkwYTQyLTM1NGQtNDRhYi05MjljLWY4OWRiNzk0Mjg3YxgAIAAoADDt3P38wjA4ud39/MIwQLnd/fzCMEocTTFsdUxIOG52NEdJQ3NVM25JUU9QMFFEL0wwPVogIh7//VhaTmdFOEI2STZaL0JwVkNzT0dacUpRYjhBMD1lAAAAABKwAQhyEqsBChx2WCtxQ09IaTFRa1RWMXJFNE1lT0N2bUgrNW89EiQwYzI2MWVhOC1hNWJkLTRlYmUtYjVkMi1mNmExNDUwNTM4MjYYACAAKAAw6e/nidgwOP/v54nYMED/7+eJ2DBKHFUwTUJvTm43R056RG9zWCs2YVY1TXNqWVV4MD1aJyIl/////wAAAAXtK3JDaDRTY0NYMWt3RGJhOWxJOFp6UVJqRStFPWV8R7vNEqoBCKsBEqQBChxtNDRKNEdjQ25PamxTMEV1cmNldi9DdndtM1U9EiRjMWRiYWNjMS1kZmExLTQ2ZmUtYTEwNS1jMjM3NWQwNzM5MTQYACAAKAAwovTg6csuOKPc5eDqL0Cj3OXg6i9KHFNNQ0paNzlEcHBORFFKOFNQWklwd2ZKcWtjQT1aICIe/942MFhZdXZwdVZDZko4eTljWU96OHd0RVZ0TEE9Zbc5U8wSqgEIrwESpAEKHGpVNFN5TjdMdnVweVAwc2ovRlJMTzFDTVkzbz0SJDZlYzAxMTQ3LWI2NDktNGI1OS1hYWMzLTJkMWIxYmM4NDgxMBgAIAAoADDnpI2Coi84+8vm4OovQPvL5uDqL0occFYvNEdXYnFoTjlYRWg4emRzZGN4R0Vic0lzPVogIh7//XhSTlZrK2Z1MnlUQUdZNW9vVjM1N010bFB5VT1lW4VDYxKnAQhVEqIBChxxSkVjc2x2cDlFeWxhdmhRaGxaZk8rcTFlUEk9EiQ2NDIwZGFhNy1iNTlmLTQwNzAtOGZjYS1kNGYyZWM2OGVmNWMYACAAKAAwv63UyJQxOLqu1MiUMUC6rtTIlDFKHDRwdEl0RVhGNUdRS1gvTGpZM3IvNUZUak9tdz1aHiIcb2p2d0JWVUhrWWFUaS9WVVRzakJiZzdTV01zPWV8vsifEqcBCCcSogEKHGJhYWhmRG9ObUJReXk4dHhDQ2FQd3JUUk5mWT0SJDAzYWNlOTQ2LTJiZDctNGQ5ZS05Y2Q4LTZkYWU2ODIxOTFhMxgAIAAoADCAzazVpTA4hayr1aUwQIWsq9WlMEocaVl6bnBUNkJWTlNjck9COFp2c2FRSmVpMXZ3PVoeIhxQbWFNQ1c0ZGNjUGk4YmxDNzBWcWg4cVhjaG89ZYuRt4sSqgEInwESpAEKHC9QTkRZclI0RlZvVWVYbytjb29BQ1hNaS9Hcz0SJGQ5OGY3NjdmLWQxODAtNGQ4ZC1iMmMyLWU5YjY1ZWQ4MzExORgAIAAoADDJ6ODpyy44itrl4OovQIra5eDqL0ocR1JkV0xUNTRrODRVaTFWb3BrRkRqckRLUHBvPVogIh7/72VhSURqOG9Bdy9mcWk5MDZrSDdvb0xOWFRYQT1lAAAAABKwAQh0EqsBChxRaWNwZ0R5WDEwc3YyK1VTYW5DTEw2OTRtOGc9EiQ1NDI2NTkyYi05N2MyLTQ3YzItYTI2Yy1iNmJhOTZiMDY3NTYYACAAKAAwndSsvdowOMLUrL3aMEDC1Ky92jBKHENiYTZtcXhTeDZ5QzNNODF2TzI2WEJRUWF3ND1aJyIl/////wAAAAX7T3RGKzY2YjF1Y1huTjZhbUlVOVRhNTVQTnZrPWUjemJDEqkBCIwBEqMBChxmMWwvWXBmUEtHKzgxRW5ZcysvZVNKblMycFk9EiQyZTQ0NjgyMi1hNjc4LTRiYTYtYmZkYy1mOWE0MDlhZGVlNmEYACAAKAAwqPiX5MkxOPf4l+TJMUD3+JfkyTFKHEU3cSszT2Z4Q0J6b0lpSmg1bkJQWGZuYnl3Yz1aHyId+0lnNURQUWZXQVp5Q2FwZHBrSXVNa2pZMW0xVT1lL4jeARKwAQh1EqsBChxleEZ3NmRQS0U2ZG5MZVJ4UzF5bDZtNlBVV0k9EiRkY2M0ZjBhZi1kZmMxLTRkZDItYTc5My0xYWQ4OTM1MTMxZDAYACAAKAAw7oLSgOMwOIuD0oDjMECLg9KA4zBKHDBkT3FhdHM5OVNHcUE5UnIvTmh1MXBjSmxKST1aJyIl/////wAAAAX9ZE1SdU9pakdMTGhDWER5RCtxZlcyNmxJQ1VvPWWZAqyeEqsBCLsBEqUBChxqcmtCd2YvbExKN2UvNEtQcWU1bGduMkk0b1U9EiQwMWIyNDQwYS05N2JlLTRlMzktODI2OS1iMmNhMmRkNDQ5YTAYACACKAIw7v3H9NUxOOKvzualMUCHqcf01TFKHHJNN3FIOURXNzJBc3JzREdjaG1VcitqT1o0QT1aISIf///9c2hnekY2QmRUd0xoOS9FOVVFb2xlL2I2MXNRPWV0NB4DEqoBCLEBEqQBChwrOXhKR2F3MzAxcXZ6RER5anBaTVczdmJTV3c9EiQ4N2Y3ZTY4OS1hNTQ2LTRmMjAtOGZhMy1hYzYxMzc3YzkwYWYYACACKAIw5f3H9NUxOL/K5uDqL0CCqcf01TFKHDRVc3ozQm0rNGpiYTJLTnVESklCdG1PVkEzUT1aICIe//t4eVhDZUFFNWkvbTNrZThHV3FHMjZzeGV5eTA9ZTj9dtsSqwEITxKmAQocQXRPdDlyc09HUTRzakFPQlhqdWJhTG9ZY0pJPRIkODBiMTI3Y2UtNGMzYi00OTQzLTk0NmItNGZmZTAxZWRiN2I3GAAgACgAMOS8vI/XMDiCvbyP1zBAgr28j9cwShxsSll4V0FlNXNmTmI5dzY0TnJhUGQxSnN3eFU9WiIiIP///+xxZ0h2OHlRVDhYZnpRVmFrWGMvRTJBZ1pzV0E9ZYWdjfgSqAEIoAESogEKHDVUVGp3NEJ3TVdSQit6eWlrdlljT3FERmx1MD0SJGNmMDM2ZDc3LWU4ZjEtNGJiNC1hYTJiLWVkM2FiYjM2OGJlNRgAIAAoADDT7uDpyy44tdvl4OovQLXb5eDqL0ocdlhsQ28xa1hmS0crSHJORGRvRms2VUp1NTRNPVoeIhxibWxWZUFiZjVDN3gxdldvQlNxMFFBSGppc289ZQAAAAASqgEIrgESpAEKHGJCR0FGOGdqOW5BZFlSc2ZzdXZiUXo5V1RJcz0SJDJiMmRlZTI1LWUyNGQtNDZhMS1hMGFjLTFiOWVhNTQ3ZDBhNhgAIAAoADCO6+Dpyy44uNrl4OovQLja5eDqL0ocUldYdENkMU01K0ljT1RzeHVGNUh6anVaM2VzPVogIh7/+3d6Y2p0MFE3SXJGOXJmOFVTbjNPVjlaU01wbz1lX/l6AhKrAQi3ARKlAQocL2ZFYTJTc0c0eklObDR5QkNyOGkzWGRibmNnPRIkODQ3NjVjNzctZTNlYS00MDBhLWI1ODEtNWFmMjJjOWQ3N2Q2GAAgACgAMKeKxoGiLzjCyebg6i9Awsnm4OovShw3cExJZmdXaGxDY05NcjJOaHhSMTdJNTlxRHM9WiEiH///3jZCd3pkdjVLbEFYQ1lTeHR3Y2lCMG5zQktxST1lXl393BKrAQi6ARKlAQocS05PNk1MdzcyU1VCMndWeC9pMHYralFyODZJPRIkZTAyNGY4NGEtMjk5OC00Mjg2LWExNDItYTE3OWQwNzVkOWE0GAAgAigCMOf9x/TVMTirnbq5pTFAh6nH9NUxShxENW9QM3Z2YVNrTzdDaXFGeTRkdnVMeFF6VHc9WiEiH///+285TFJBRVNacDViakt4K1RoVUFoQmQwODdvST1likFE3zAAOAA=",
+   "version": 1
+}

@@ -15,7 +15,7 @@ class UserRepositoryImpl implements UserRepository {
   Future<Either<AuthException, String>> login(
       String email, String password) async {
     try {
-      print('TEste ${restClient.options.baseUrl}');
+      // print('TEste ${restClient.options.baseUrl}');
       final Response(data: {'access_token': accessToken}) =
           await restClient.unAuth.post("/auth", data: {
         'email': email,
@@ -23,7 +23,7 @@ class UserRepositoryImpl implements UserRepository {
         'admin': true,
       });
 
-      print(accessToken.toString());
+      // print(accessToken.toString());
 
       return Right(accessToken);
     } on DioException catch (e, s) {

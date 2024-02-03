@@ -1,4 +1,3 @@
-
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
 import 'package:flutter/material.dart';
 
@@ -32,7 +31,7 @@ class HomePage extends StatelessWidget {
         alignment: Alignment.topCenter,
         child: Container(
           padding: const EdgeInsets.all(40),
-          margin: const EdgeInsets.all(112),
+          margin: const EdgeInsets.only(top: 112),
           width: sizeOf.width * .8,
           decoration: BoxDecoration(
             color: Colors.white,
@@ -55,7 +54,11 @@ class HomePage extends StatelessWidget {
                   width: sizeOf.width * 8,
                   height: 48,
                   child: ElevatedButton(
-                      onPressed: () {}, child: const Text('Iniciar terminal')))
+                      onPressed: () {
+                        Navigator.of(context)
+                            .pushReplacementNamed('/self-service');
+                      },
+                      child: const Text('Iniciar terminal')))
             ],
           ),
         ),

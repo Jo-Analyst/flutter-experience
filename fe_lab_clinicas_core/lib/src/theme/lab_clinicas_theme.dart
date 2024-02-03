@@ -27,6 +27,7 @@ final class LabClinicasTheme {
       floatingLabelStyle:
           const TextStyle(color: blueColor, fontWeight: FontWeight.w600),
       enabledBorder: _defaultInputBorder,
+      border: _defaultInputBorder,
       focusedBorder: _defaultInputBorder,
       errorBorder: _defaultInputBorder.copyWith(
           borderSide: const BorderSide(color: Colors.red)),

@@ -7,7 +7,7 @@ class PatientAddressModel {
   final String cep;
   @JsonKey(name: 'street_address')
   final String streetAddress;
-  final String number;
+  // final String number;
   @JsonKey(name: 'address_complement')
   final String addressComplement;
   final String state;
@@ -20,7 +20,7 @@ class PatientAddressModel {
   PatientAddressModel({
     required this.cep,
     required this.streetAddress,
-    required this.number,
+    // required this.number,
     required this.addressComplement,
     required this.state,
     required this.city,

@@ -17,6 +17,7 @@ class PatientsRepositoryImpl implements PatientsRepository {
       final Response(:List data) = await restClient.auth
           .get('/patients', queryParameters: {'document': document});
 
+
       if (data.isEmpty) {
         return Right(null);
       }

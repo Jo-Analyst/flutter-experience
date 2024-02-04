@@ -21,6 +21,7 @@ class FindPatientController with MessageStateMixin {
 
     bool patientNotFound;
     PatientModel? patient;
+
     switch (patientResult) {
       case Right(value: PatientModel model?):
         patientNotFound = false;
@@ -32,5 +33,17 @@ class FindPatientController with MessageStateMixin {
         showError("Erro ao buscar paciente");
         return;
     }
+
+    batch(() {
+      _patient.value = patient;
+      _patientNotFound.forceUpdate(patientNotFound);
+    });
+  }
+
+  void continueWithoutDocument() {
+    batch(() {
+      _patient.value = null;
+      _patientNotFound.forceUpdate(true);
+    });
   }
 }

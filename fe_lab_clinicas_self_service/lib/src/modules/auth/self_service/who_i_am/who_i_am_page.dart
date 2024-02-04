@@ -81,7 +81,7 @@ class _WhoIAmPageState extends State<WhoIAmPage> {
                     key: formkey,
                     child: Column(
                       children: [
-                        // Image.asset('assets/images/logo_vertical.png'),
+                        Image.asset('assets/images/logo_vertical.png'),
                         const SizedBox(height: 48),
                         const Text(
                           'Bem vindo!',

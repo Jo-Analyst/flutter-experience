@@ -44,7 +44,26 @@
         }
     ],
     "attendantDeskAssignment": [],
-    "patients": [],
+    "patients": [
+        {
+            "id": "7abe98a0-2bfd-1e98-b543-5fac032ef90a",
+            "name": "Rodrigo Rahman",
+            "email": "rodrigorahman@academiadoflutter.com.br",
+            "phone_number": "(11) 1231212312",
+            "document": "123.123.123-12",
+            "address": {
+                "cep": "09190390",
+                "street_address": "Rua X",
+                "number": "51",
+                "address_complement": "casa",
+                "state": "SP",
+                "city": "Santo André",
+                "district": "Jardins"
+            },
+            "guardian": "",
+            "guardian_identification_number": ""
+        }
+    ],
     "patientInformationForm": [],
     "painelCheckin": [],
     "tests": [

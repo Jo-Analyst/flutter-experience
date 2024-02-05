@@ -30,7 +30,22 @@ final class LabClinicasTheme {
       border: _defaultInputBorder,
       focusedBorder: _defaultInputBorder,
       errorBorder: _defaultInputBorder.copyWith(
-          borderSide: const BorderSide(color: Colors.red)),
+        borderSide: const BorderSide(color: Colors.red),
+      ),
+    ),
+    outlinedButtonTheme: OutlinedButtonThemeData(
+      style: OutlinedButton.styleFrom(
+        backgroundColor: Colors.white,
+        side: BorderSide(color: blueColor),
+        foregroundColor: blueColor,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+        ),
+        textStyle: TextStyle(
+            fontFamily: 'Montserrat',
+            fontSize: 14,
+            fontWeight: FontWeight.bold),
+      ),
     ),
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
@@ -41,9 +56,10 @@ final class LabClinicasTheme {
           borderRadius: BorderRadiusDirectional.circular(16),
         ),
         textStyle: const TextStyle(
-            fontFamily: 'Montserrat',
-            fontSize: 14,
-            fontWeight: FontWeight.w700),
+          fontFamily: 'Montserrat',
+          fontSize: 14,
+          fontWeight: FontWeight.w700,
+        ),
       ),
     ),
   );
@@ -53,6 +69,7 @@ final class LabClinicasTheme {
   static const titleStyle =
       TextStyle(color: blueColor, fontSize: 32, fontWeight: FontWeight.w900);
   static const titleSmallStyle =
+      TextStyle(color: blueColor, fontSize: 18, fontWeight: FontWeight.w900);
+  static const subtitleSmallStyle =
       TextStyle(color: blueColor, fontSize: 18, fontWeight: FontWeight.w500);
-  static const subtitleSmallStyle = TextStyle();
 }

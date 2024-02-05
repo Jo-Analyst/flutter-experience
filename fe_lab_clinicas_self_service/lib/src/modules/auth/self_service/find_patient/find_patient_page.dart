@@ -44,24 +44,7 @@ class _FindPatientPageState extends State<FindPatientPage>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: LabClinicasAppBar(
-        actions: [
-          PopupMenuButton(
-            child: const IconPopupMenuWidget(),
-            itemBuilder: (context) {
-              return [
-                const PopupMenuItem(
-                  value: 1,
-                  child: Text("Reiniciar processo"),
-                ),
-              ];
-            },
-            onSelected: (value) async {
-              Injector.get<SelfServiceController>().restartProcess();
-            },
-          )
-        ],
-      ),
+      appBar: LabClinicasAppBar(),
       body: LayoutBuilder(builder: (context, constraints) {
         var sizeOf = MediaQuery.sizeOf(context);
         return SingleChildScrollView(

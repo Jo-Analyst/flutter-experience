@@ -25,6 +25,7 @@ class PatientController with MessageStateMixin {
       case Right():
         showInfo('Paciente atualizado com sucesso');
         patient = model;
+        goNextStep();
     }
   }
 }

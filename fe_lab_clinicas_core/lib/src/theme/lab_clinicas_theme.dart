@@ -2,23 +2,23 @@ import 'package:flutter/material.dart';
 
 final class LabClinicasTheme {
   static const orangeColor = Color(0xFFFFAE45);
-  static const lightorangeColor = Color(0xFFFFEFE9);
+  static const lightOrangeColor = Color(0xFFFFEFE9);
   static const blueColor = Color(0xFF01BDD6);
   static const lightGreyColor = Color(0xFFFFEFE9);
 
   static final _defaultInputBorder = OutlineInputBorder(
     borderRadius: BorderRadius.circular(16),
-    borderSide: const BorderSide(color: lightorangeColor),
+    borderSide: const BorderSide(color: lightOrangeColor),
   );
 
   static final lightTheme = ThemeData(
-    colorScheme: ColorScheme.fromSeed(seedColor: lightorangeColor),
+    colorScheme: ColorScheme.fromSeed(seedColor: lightOrangeColor),
     useMaterial3: true,
     fontFamily: 'Montserrat',
-    scaffoldBackgroundColor: lightorangeColor,
+    scaffoldBackgroundColor: lightOrangeColor,
     inputDecorationTheme: InputDecorationTheme(
       filled: true,
-      fillColor: lightorangeColor,
+      fillColor: lightOrangeColor,
       labelStyle: const TextStyle(
         fontSize: 14,
         color: orangeColor,

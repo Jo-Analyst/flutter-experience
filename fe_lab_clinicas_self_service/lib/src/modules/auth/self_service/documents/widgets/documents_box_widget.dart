@@ -7,6 +7,7 @@ class DocumentsBoxWidget extends StatelessWidget {
   final Widget icon;
   final String label;
   final int totalFiles;
+  final VoidCallback? onTap;
 
   const DocumentsBoxWidget({
     super.key,
@@ -14,6 +15,7 @@ class DocumentsBoxWidget extends StatelessWidget {
     required this.icon,
     required this.label,
     required this.totalFiles,
+    this.onTap,
   });
 
   @override
@@ -21,28 +23,31 @@ class DocumentsBoxWidget extends StatelessWidget {
     final totalFileLabel = totalFiles > 0 ? '($totalFiles)' : '';
 
     return Expanded(
-      child: Container(
-        padding: const EdgeInsets.all(24),
-        decoration: BoxDecoration(
-          color: uploaded ? LabClinicasTheme.lightOrangeColor : Colors.white,
-          borderRadius: BorderRadius.circular(16),
-          border: Border.all(
-            color: LabClinicasTheme.orangeColor,
-          ),
-        ),
-        child: Column(
-          children: [
-            Expanded(child: icon),
-            Text(
-              '$label $totalFileLabel',
-              textAlign: TextAlign.center,
-              style: const TextStyle(
-                fontSize: 14,
-                color: LabClinicasTheme.orangeColor,
-                fontWeight: FontWeight.bold,
-              ),
+      child: InkWell(
+        onTap: onTap,
+        child: Container(
+          padding: const EdgeInsets.all(24),
+          decoration: BoxDecoration(
+            color: uploaded ? LabClinicasTheme.lightOrangeColor : Colors.white,
+            borderRadius: BorderRadius.circular(16),
+            border: Border.all(
+              color: LabClinicasTheme.orangeColor,
             ),
-          ],
+          ),
+          child: Column(
+            children: [
+              Expanded(child: icon),
+              Text(
+                '$label $totalFileLabel',
+                textAlign: TextAlign.center,
+                style: const TextStyle(
+                  fontSize: 14,
+                  color: LabClinicasTheme.orangeColor,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
         ),
       ),
     );

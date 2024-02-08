@@ -1,4 +1,5 @@
 import 'package:camera/camera.dart';
+import 'package:dotted_border/dotted_border.dart';
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
 import 'package:fe_lab_clinicas_self_service/src/modules/auth/self_service/widgets/lab_clinicas_self_service_app_bar.dart';
 import 'package:flutter/material.dart';
@@ -43,14 +44,14 @@ class _DocumentsScanPageState extends State<DocumentsScanPage> {
               children: [
                 Image.asset('assets/images/cam_icon.png'),
                 const SizedBox(
-                  height: 24,
+                  height: 30,
                 ),
                 const Text(
                   'TIRAR A FOTO AGORA',
                   style: LabClinicasTheme.titleSmallStyle,
                 ),
                 const SizedBox(
-                  height: 32,
+                  height: 30,
                 ),
                 const Text(
                   'Posicione o documento dentro do quadrado abaixo e aperte o botão para tirar a foto',
@@ -75,7 +76,24 @@ class _DocumentsScanPageState extends State<DocumentsScanPage> {
                         return const Center(child: CircularProgressIndicator());
                       case AsyncSnapshot(connectionState: ConnectionState.done):
                         if (cameraController.value.isInitialized) {
-                          return CameraPreview(cameraController);
+                          return ClipRRect(
+                            borderRadius: BorderRadius.circular(16),
+                            child: SizedBox(
+                              width: sizeOf.width * .35,
+                              child: CameraPreview(
+                                cameraController,
+                                child: DottedBorder(
+                                  dashPattern: const [1, 10, 1, 3],
+                                  strokeWidth: 4,
+                                  radius: const Radius.circular(16),
+                                  strokeCap: StrokeCap.square,
+                                  color: LabClinicasTheme.orangeColor,
+                                  borderType: BorderType.RRect,
+                                  child: const SizedBox.expand(),
+                                ),
+                              ),
+                            ),
+                          );
                         }
                     }
 
@@ -83,7 +101,17 @@ class _DocumentsScanPageState extends State<DocumentsScanPage> {
                       child: Text('Erro ao carregar câmera'),
                     );
                   },
-                )
+                ),
+                const SizedBox(
+                  height: 30,
+                ),
+                SizedBox(
+                  width: sizeOf.width * .8,
+                  child: ElevatedButton(
+                    onPressed: () {},
+                    child: const Text('TIRAR FOTO'),
+                  ),
+                ),
               ],
             ),
           ),

@@ -7,16 +7,23 @@ import 'package:fe_lab_clinicas_self_service/src/modules/auth/self_service/docum
 import 'package:fe_lab_clinicas_self_service/src/modules/auth/self_service/widgets/lab_clinicas_self_service_app_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_getit/flutter_getit.dart';
+import 'package:signals_flutter/signals_flutter.dart';
 
 class DocumentsScanConfirmPage extends StatelessWidget {
   final controller = Injector.get<DocumentsScanConfirmController>();
-  
+
   DocumentsScanConfirmPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     final sizeOf = MediaQuery.sizeOf(context);
     final foto = ModalRoute.of(context)!.settings.arguments as XFile;
+
+    controller.pathRemoteStorage.listen(context, () {
+      Navigator.of(context).pop();
+      Navigator.of(context).pop(controller.pathRemoteStorage.value);
+    });
+
     return Scaffold(
       appBar: LabClinicasSelfServiceAppBar(),
       body: Align(
@@ -87,7 +94,12 @@ class DocumentsScanConfirmPage extends StatelessWidget {
                       child: SizedBox(
                         height: 48,
                         child: ElevatedButton(
-                          onPressed: () {},
+                          onPressed: () async {
+                            final imageBytes = await foto.readAsBytes();
+                            print(foto.toString());
+                            final filename = foto.name;
+                            await controller.uploadImage(imageBytes, filename);
+                          },
                           child: const Text('SALVAR'),
                         ),
                       ),

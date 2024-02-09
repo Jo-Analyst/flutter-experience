@@ -2,14 +2,14 @@
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
 import 'package:flutter/material.dart';
 
-class DocumentsBoxWidget extends StatelessWidget {
+class DocumentBoxWidget extends StatelessWidget {
   final bool uploaded;
   final Widget icon;
   final String label;
   final int totalFiles;
   final VoidCallback? onTap;
 
-  const DocumentsBoxWidget({
+  const DocumentBoxWidget({
     super.key,
     required this.uploaded,
     required this.icon,

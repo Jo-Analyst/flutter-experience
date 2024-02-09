@@ -1,6 +1,6 @@
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
 import 'package:fe_lab_clinicas_self_service/src/model/self_service_model.dart';
-import 'package:fe_lab_clinicas_self_service/src/modules/auth/self_service/documents/widgets/documents_box_widget.dart';
+import 'package:fe_lab_clinicas_self_service/src/modules/auth/self_service/documents/widgets/document_box_widget.dart';
 import 'package:fe_lab_clinicas_self_service/src/modules/auth/self_service/self_service_controller.dart';
 import 'package:fe_lab_clinicas_self_service/src/modules/auth/self_service/widgets/lab_clinicas_self_service_app_bar.dart';
 import 'package:flutter/material.dart';
@@ -73,7 +73,7 @@ class _DocumentsPageState extends State<DocumentsPage> with MessageViewMixin {
                   height: 280,
                   child: Row(
                     children: [
-                      DocumentsBoxWidget(
+                      DocumentBoxWidget(
                         uploaded: totalHealthInsuranceCard > 0,
                         icon: Image.asset('assets/images/id_card.png'),
                         label: 'CARTEIRINHA',
@@ -94,7 +94,7 @@ class _DocumentsPageState extends State<DocumentsPage> with MessageViewMixin {
                       const SizedBox(
                         width: 32,
                       ),
-                      DocumentsBoxWidget(
+                      DocumentBoxWidget(
                         uploaded: totalMedicaOrder > 0,
                         icon: Image.asset('assets/images/document.png'),
                         label: 'PEDIDO MÉDICO',
@@ -159,5 +159,4 @@ class _DocumentsPageState extends State<DocumentsPage> with MessageViewMixin {
       ),
     );
   }
-
 }

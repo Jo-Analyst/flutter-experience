@@ -96,7 +96,6 @@ class DocumentsScanConfirmPage extends StatelessWidget {
                         child: ElevatedButton(
                           onPressed: () async {
                             final imageBytes = await foto.readAsBytes();
-                            print(foto.toString());
                             final filename = foto.name;
                             await controller.uploadImage(imageBytes, filename);
                           },

@@ -108,7 +108,8 @@ class _LoginPageState extends State<LoginPage> with MessageViewMixin {
                               formKey.currentState?.validate() ?? false;
 
                           if (valid) {
-                            controller.login(emailEC.text, passwordEC.text);
+                            controller.login(
+                                emailEC.text.trim(), passwordEC.text.trim());
                           }
                         },
                         child: const Text('ENTRAR'),

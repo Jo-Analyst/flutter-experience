@@ -13,10 +13,10 @@ import 'package:flutter_getit/flutter_getit.dart';
 
 late List<CameraDescription> _cameras;
 
-Future<void> main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  _cameras = await availableCameras();
-  runZonedGuarded(() {
+void main() {
+  runZonedGuarded(() async {
+    WidgetsFlutterBinding.ensureInitialized();
+    _cameras = await availableCameras();
     runApp(const LabClinicasSerfServiceApp());
   }, (error, stack) {
     log('Erro não tratado', error: error, stackTrace: stack);

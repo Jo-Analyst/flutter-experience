@@ -43,10 +43,11 @@ class _PatientPageState extends State<PatientPage>
     initializeForm(patient);
     effect(() {
       if (controller.nextStep) {
-        selfServiceController.updatePatientAndGoDocument(controller.patient);
+        // selfServiceController.updatePatientAndGoDocument(controller.patient);
+        selfServiceController.updatePatientAndGoDocument(patient);
       }
     });
-
+   
     super.initState();
   }
 
@@ -326,7 +327,6 @@ class _PatientPageState extends State<PatientPage>
           ),
         ),
       ),
-    
     );
   }
 }

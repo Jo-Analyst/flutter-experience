@@ -5,11 +5,11 @@ import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
 
 import 'attendante_desk_assignment_repository.dart.dart';
 
-class AttendanteDeskAssignmentImpl
+class AttendanteDeskAssignmentRepositoryImpl
     implements AttendanteDeskAssignmentRepository {
   final RestClient restClient;
 
-  AttendanteDeskAssignmentImpl({required this.restClient});
+  AttendanteDeskAssignmentRepositoryImpl({required this.restClient});
 
   @override
   Future<Either<RepositoryException, Unit>> startService(int deskNumber) async {
@@ -58,5 +58,19 @@ class AttendanteDeskAssignmentImpl
       return (id: id, deskNumber: deskNumber);
     }
     return null;
+  }
+
+  @override
+  Future<Either<RepositoryException, int>> getDeskAssignment() async {
+    try {
+      final Response(data: List(first: data)) = await restClient.auth.get(
+          '/attendantDeskAssignment',
+          queryParameters: {'user_id': "#userAuthRef"});
+
+      return Right(data['desk_number']);
+    } on DioException catch (e, s) {
+      log('Erro ao buscar o número de guichê', error: e, stackTrace: s);
+      return Left(RepositoryException());
+    }
   }
 }

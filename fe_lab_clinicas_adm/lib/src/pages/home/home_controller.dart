@@ -1,14 +1,25 @@
+// ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:asyncstate/asyncstate.dart' as asyncstate;
-import 'package:fe_lab_clinicas_adm/src/repositories/attendante_desk_assignment/attendante_desk_assignment_repository.dart.dart';
+import 'package:fe_lab_clinicas_adm/src/models/patient_information_form_model.dart';
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
+
+import 'package:fe_lab_clinicas_adm/src/repositories/attendante_desk_assignment/attendante_desk_assignment_repository.dart.dart';
+import 'package:fe_lab_clinicas_adm/src/services/login/call_next_patient/call_next_patient_service.dart';
+import 'package:signals_flutter/signals_flutter.dart';
 
 class HomeController with MessageStateMixin {
   final AttendanteDeskAssignmentRepository _attendanteDeskRepository;
+  final CallNextPatientService _callNextPatientService;
+
+  final _informationForm = signal<PatientInformationFormModel?>(null);
+
+  PatientInformationFormModel? get informationForm => _informationForm();
 
   HomeController(
-      {required AttendanteDeskAssignmentRepository
-          attendanteDeskAssignmentRepository})
-      : _attendanteDeskRepository = attendanteDeskAssignmentRepository;
+      {required AttendanteDeskAssignmentRepository attendanteDeskRepository,
+      required CallNextPatientService callNextPatientService})
+      : _attendanteDeskRepository = attendanteDeskRepository,
+        _callNextPatientService = callNextPatientService;
 
   Future<void> startService(int deskNumber) async {
     asyncstate.AsyncState.show();
@@ -16,11 +27,20 @@ class HomeController with MessageStateMixin {
 
     switch (result) {
       case Left():
+        asyncstate.AsyncState.hide();
         showError('Erro ao iniciar Guichê');
       case Right():
-        asyncstate.AsyncState.hide();
-        // chamar próximo paciente
-        showInfo('Registrou com sucesso');
+        final resultNextPatient = await _callNextPatientService.execute();
+        switch (resultNextPatient) {
+          case Left():
+            showError('Erro oa chamar o próximo paciente');
+          case Right(value: final form?):
+            asyncstate.AsyncState.hide();
+            _informationForm.value = form;
+          case Right(value: _):
+            asyncstate.AsyncState.hide();
+            showInfo('Nenhum paciente aguardando, pode ir tomar um cafezinho');
+        }
     }
   }
 }

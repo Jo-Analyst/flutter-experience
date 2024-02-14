@@ -10,7 +10,7 @@ PatientInformationFormModel _$PatientInformationFormModelFromJson(
         Map<String, dynamic> json) =>
     PatientInformationFormModel(
       id: json['id'] as String,
-      patient: PatientModel.fromJson(json['patient'] as Map<String, dynamic>),
+      patient: PatientModel.fromJson(json['patient']),
       healthInsuranceCard: json['health_insurance_card'] as String,
       medicalOrders: (json['medical_order'] as List<dynamic>)
           .map((e) => e as String)

@@ -27,7 +27,7 @@ class InformationFormRepositoryImpl implements InformationFormRepository {
       ) = model;
 
       await restClient.auth.post('/patientInformationForm', data: {
-        'patiend_id': patientId,
+        'patient_id': patientId,
         'health_insurance_card': healInsuranceCardDoc,
         'medical_order': medicalOrderDocs,
         'password': '$name $lastName',

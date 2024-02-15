@@ -35,7 +35,7 @@ class PatientInformationFormRepositoryImpl
         return Left(exception);
       case Right():
         formData['status'] = PatientInformationFormStatus.checkIn.id;
-        formData['patient_id'] = await _getPatient(formData['patient_id']);
+        formData['patient'] = await _getPatient(formData['patient_id']);
         return Right(PatientInformationFormModel.fromJson(formData));
     }
   }

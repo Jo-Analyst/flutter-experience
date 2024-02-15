@@ -12,8 +12,10 @@ PatientModel _$PatientModelFromJson(Map<String, dynamic> json) => PatientModel(
       email: json['email'] as String,
       phoneNumber: json['phone_number'] as String,
       document: json['document'] as String,
-      patientAddressModel: PatientAddressModel.fromJson(
-          json['patientAddressModel'] as Map<String, dynamic>),
+      patientAddressModel: json['patientAddressModel'] == null
+          ? null
+          : PatientAddressModel.fromJson(
+              json['patientAddressModel'] as Map<String, dynamic>),
       guardian: json['guardian'] as String? ?? '',
       guardianIdentificationNumber:
           json['guardian_identification_number'] as String? ?? '',

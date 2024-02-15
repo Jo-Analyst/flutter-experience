@@ -22,7 +22,7 @@ class PatientModel {
   @JsonKey(name: 'phone_number')
   String phoneNumber;
   String document;
-  PatientAddressModel patientAddressModel;
+  PatientAddressModel? patientAddressModel;
   @JsonKey(defaultValue: '')
   String guardian;
   @JsonKey(name: 'guardian_identification_number', defaultValue: '')

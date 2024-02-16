@@ -45,10 +45,10 @@
     ],
     "attendantDeskAssignment": [
         {
-            "id": "8e612450-90a4-1ebd-ba28-db6f8c776339",
+            "id": "84eb6a70-aac6-1ebd-98ff-eb6e4da60ad5",
             "user_id": "01dd70e0-3874-1e89-9d5f-fb347aa08d8f",
             "desk_number": 3,
-            "date_created": "2024-02-16T09:40:25.919888",
+            "date_created": "2024-02-16T10:28:19.257484",
             "status": "Available"
         }
     ],
@@ -118,7 +118,7 @@
             ],
             "password": "VF1986",
             "date_created": "2024-02-14T13:39:50.858395",
-            "status": "Waiting",
+            "status": "Checked In",
             "tests": []
         },
         {
@@ -148,21 +148,9 @@
     ],
     "painelCheckin": [
         {
-            "id": "45c90a20-91c9-1ebd-b9c8-dd9dcd4943fb",
+            "id": "12dbcb00-aacb-1ebd-98ff-eb6e4da60ad5",
             "password": "VF1986",
-            "time_called": "2024-02-16T09:42:31.713423",
-            "attendant_desk": 3
-        },
-        {
-            "id": "05e48120-91cc-1ebd-b9c8-dd9dcd4943fb",
-            "password": "JC1990",
-            "time_called": "2024-02-16T09:42:32.879344",
-            "attendant_desk": 3
-        },
-        {
-            "id": "aafc6180-91ce-1ebd-b9c8-dd9dcd4943fb",
-            "password": "RR1990",
-            "time_called": "2024-02-16T09:42:34.032963",
+            "time_called": "2024-02-16T10:28:20.932980",
             "attendant_desk": 3
         }
     ],

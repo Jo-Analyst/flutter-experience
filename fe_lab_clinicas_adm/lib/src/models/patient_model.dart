@@ -11,7 +11,7 @@ class PatientModel {
     required this.email,
     required this.phoneNumber,
     required this.document,
-    required this.patientAddressModel,
+    required this.address,
     required this.guardian,
     required this.guardianIdentificationNumber,
   });
@@ -22,7 +22,7 @@ class PatientModel {
   @JsonKey(name: 'phone_number')
   String phoneNumber;
   String document;
-  PatientAddressModel? patientAddressModel;
+  PatientAddressModel? address;
   @JsonKey(defaultValue: '')
   String guardian;
   @JsonKey(name: 'guardian_identification_number', defaultValue: '')

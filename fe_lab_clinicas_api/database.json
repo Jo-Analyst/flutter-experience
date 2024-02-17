@@ -45,10 +45,10 @@
     ],
     "attendantDeskAssignment": [
         {
-            "id": "6e39d450-6d11-1ec0-b4b4-6132d4a4ddb9",
+            "id": "0f87a5f0-81b0-1ec0-8064-8f9ccf2434c3",
             "user_id": "01dd70e0-3874-1e89-9d5f-fb347aa08d8f",
             "desk_number": 3,
-            "date_created": "2024-02-17T08:02:37.007178",
+            "date_created": "2024-02-17T08:40:24.137384",
             "status": "Available"
         }
     ],
@@ -149,20 +149,7 @@
             "tests": []
         }
     ],
-    "painelCheckin": [
-        {
-            "id": "ce7c0cc0-6550-1ec0-b4b4-6132d4a4ddb9",
-            "password": "JC 1990",
-            "time_called": "2024-02-17T07:48:24.621965",
-            "attendant_desk": 3
-        },
-        {
-            "id": "d10b6030-6d11-1ec0-b4b4-6132d4a4ddb9",
-            "password": "VF 1986",
-            "time_called": "2024-02-17T08:02:37.159680",
-            "attendant_desk": 3
-        }
-    ],
+    "painelCheckin": [],
     "tests": [
         {
             "id": "3b2526a7-96ad-4884-8d89-aac3a8f8d1e1",

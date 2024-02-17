@@ -18,6 +18,14 @@ class _LoginPageState extends State<LoginPage> with MessageViewMixin {
   final passwordEC = TextEditingController();
   final controller = Injector.get<LoginController>();
 
+  void login() {
+    final valid = formKey.currentState?.validate() ?? false;
+
+    if (valid) {
+      controller.login(emailEC.text.trim(), passwordEC.text.trim());
+    }
+  }
+
   @override
   void dispose() {
     super.dispose();
@@ -67,6 +75,7 @@ class _LoginPageState extends State<LoginPage> with MessageViewMixin {
                     ),
                     const SizedBox(height: 32),
                     TextFormField(
+                      autofocus: true,
                       controller: emailEC,
                       validator: Validatorless.multiple([
                         Validatorless.required('Email obrigatório'),
@@ -75,6 +84,9 @@ class _LoginPageState extends State<LoginPage> with MessageViewMixin {
                       decoration: const InputDecoration(
                         label: Text("Email"),
                       ),
+                      onFieldSubmitted: (_) {
+                        login();
+                      },
                     ),
                     const SizedBox(height: 24),
                     Watch(
@@ -95,6 +107,9 @@ class _LoginPageState extends State<LoginPage> with MessageViewMixin {
                                   : const Icon(Icons.visibility_off),
                             ),
                           ),
+                          onFieldSubmitted: (_) {
+                            login();
+                          },
                         );
                       },
                     ),
@@ -104,13 +119,7 @@ class _LoginPageState extends State<LoginPage> with MessageViewMixin {
                       height: 48,
                       child: ElevatedButton(
                         onPressed: () {
-                          final valid =
-                              formKey.currentState?.validate() ?? false;
-
-                          if (valid) {
-                            controller.login(
-                                emailEC.text.trim(), passwordEC.text.trim());
-                          }
+                          login();
                         },
                         child: const Text('ENTRAR'),
                       ),

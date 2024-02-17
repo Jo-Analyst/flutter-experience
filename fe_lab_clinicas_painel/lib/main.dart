@@ -1,6 +1,7 @@
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
 import 'package:fe_lab_clinicas_painel/src/binding/lab_clinicas_application_binding.dart';
 import 'package:fe_lab_clinicas_painel/src/pages/login/login_router.dart';
+import 'package:fe_lab_clinicas_painel/src/pages/painel/painel_router.dart';
 import 'package:fe_lab_clinicas_painel/src/pages/splash/splash_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_getit/flutter_getit.dart';
@@ -22,12 +23,8 @@ class LabClinicasPainelApp extends StatelessWidget {
           page: (_) => const SplashPage(),
           path: '/',
         ),
-        FlutterGetItPageBuilder(
-          page: (_) => const Text('Estou na home'),
-          path: '/home',
-        ),
       ],
-      pages: const [LoginRouter()],
+      pages: const [LoginRouter(), PainelRouter()],
     );
   }
 }

@@ -11,8 +11,11 @@ class _SplashPageState extends State<SplashPage> {
   @override
   void initState() {
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      Navigator.of(context).pushReplacementNamed('/login');
+      Navigator.of(context).pushReplacementNamed('/painel');
     });
+    // WidgetsBinding.instance.addPostFrameCallback((_) {
+    //   Navigator.of(context).pushReplacementNamed('/login');
+    // });
 
     super.initState();
   }
@@ -20,7 +23,6 @@ class _SplashPageState extends State<SplashPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-     
       body: Center(
         child: Image.asset('assets/images/logo_vertical.png'),
       ),

@@ -1,5 +1,3 @@
-import 'dart:js_util';
-
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
 import 'package:fe_lab_clinicas_painel/src/pages/painel/widgets/painel_principal_widget.dart';
 import 'package:fe_lab_clinicas_painel/src/pages/painel/widgets/password_tile.dart';

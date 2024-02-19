@@ -36,12 +36,12 @@ final class LabClinicasTheme {
     outlinedButtonTheme: OutlinedButtonThemeData(
       style: OutlinedButton.styleFrom(
         backgroundColor: Colors.white,
-        side: BorderSide(color: blueColor),
+        side: const BorderSide(color: blueColor),
         foregroundColor: blueColor,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(16),
         ),
-        textStyle: TextStyle(
+        textStyle: const TextStyle(
             fontFamily: 'Montserrat',
             fontSize: 14,
             fontWeight: FontWeight.bold),

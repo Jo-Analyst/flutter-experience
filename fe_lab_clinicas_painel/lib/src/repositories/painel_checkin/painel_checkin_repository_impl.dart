@@ -22,7 +22,7 @@ class PainelCheckinRepositoryImpl implements PainelCheckinRepository {
   @override
   ({WebSocketChannel channel, Function dispose}) openChannelSocket() {
     final channel = WebSocketChannel.connect(
-        Uri.parse('${Env.backendBaseUrl}?tables=painelCheckin'));
+        Uri.parse('${Env.wsBackendBaseUrl}?tables=painelCheckin'));
 
     return (
       channel: channel,
@@ -33,7 +33,7 @@ class PainelCheckinRepositoryImpl implements PainelCheckinRepository {
   }
 
   Future<List<PainelCheckinModel>> requestData() async {
-    final dateFormat = DateFormat('y-MM-d');
+    final dateFormat = DateFormat('y-MM-dd');
     final Response(:List data) = await restClient.auth.get(
       '/painelCheckin',
       queryParameters: {

@@ -1,13 +1,54 @@
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
+import 'package:fe_lab_clinicas_painel/src/models/painel_checkin_model.dart';
+import 'package:fe_lab_clinicas_painel/src/pages/painel/painel_controller.dart';
 import 'package:fe_lab_clinicas_painel/src/pages/painel/widgets/painel_principal_widget.dart';
 import 'package:fe_lab_clinicas_painel/src/pages/painel/widgets/password_tile.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_getit/flutter_getit.dart';
+import 'package:signals_flutter/signals_flutter.dart';
 
-class PainelPage extends StatelessWidget {
+class PainelPage extends StatefulWidget {
   const PainelPage({super.key});
 
   @override
+  State<PainelPage> createState() => _PainelPageState();
+}
+
+class _PainelPageState extends State<PainelPage> {
+  final controller = Injector.get<PainelController>();
+
+  @override
+  void initState() {
+    controller.listenerPainel();
+    super.initState();
+  }
+
+  @override
+  void dispose() {
+    controller.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
+    final PainelCheckinModel? current;
+    final PainelCheckinModel? lastCall;
+    final List<PainelCheckinModel>? others;
+
+    final listPanel = controller.painelData.watch(context);
+
+    current = listPanel.firstOrNull;
+    if (listPanel.isNotEmpty) {
+      listPanel.removeAt(0);
+    }
+
+    lastCall = listPanel.firstOrNull;
+    if (listPanel.isNotEmpty) {
+      listPanel.removeAt(0);
+    }
+
+    others = listPanel;
+
     var sizeOf = MediaQuery.sizeOf(context);
 
     return Scaffold(
@@ -21,27 +62,31 @@ class PainelPage extends StatelessWidget {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  SizedBox(
-                    width: sizeOf.width * .4,
-                    child: const PainelPrincipalWidget(
-                      passwordLabel: 'Senha Anterior',
-                      password: 'JC 1990',
-                      deskNumber: '3',
-                      labelColor: LabClinicasTheme.orangeColor,
-                      buttonColor: LabClinicasTheme.blueColor,
-                    ),
-                  ),
+                  lastCall != null
+                      ? SizedBox(
+                          width: sizeOf.width * .4,
+                          child:  PainelPrincipalWidget(
+                            passwordLabel: 'Senha Anterior',
+                            password: lastCall.password,
+                            deskNumber: lastCall.attendantDesk.toString().padLeft(2, '0'),
+                            labelColor: LabClinicasTheme.orangeColor,
+                            buttonColor: LabClinicasTheme.blueColor,
+                          ),
+                        )
+                      : const SizedBox.shrink(),
                   const SizedBox(width: 20),
-                  SizedBox(
-                    width: MediaQuery.sizeOf(context).width * .4,
-                    child: const PainelPrincipalWidget(
-                      passwordLabel: 'Chamando Senha',
-                      password: 'VF 1986',
-                      deskNumber: '3',
-                      labelColor: LabClinicasTheme.blueColor,
-                      buttonColor: LabClinicasTheme.orangeColor,
-                    ),
-                  ),
+                  current != null
+                      ? SizedBox(
+                          width: MediaQuery.sizeOf(context).width * .4,
+                          child:  PainelPrincipalWidget(
+                            passwordLabel: 'Chamando Senha',
+                            password: current.password,
+                            deskNumber: current.attendantDesk.toString().padLeft(2, '0'),
+                            labelColor: LabClinicasTheme.blueColor,
+                            buttonColor: LabClinicasTheme.orangeColor,
+                          ),
+                        )
+                      : const SizedBox.shrink(),
                 ],
               ),
               const SizedBox(height: 40),
@@ -56,32 +101,20 @@ class PainelPage extends StatelessWidget {
                 ),
               ),
               const SizedBox(height: 16),
-              const Padding(
-                padding: EdgeInsets.symmetric(horizontal: 2),
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 2),
                 child: Wrap(
                   runAlignment: WrapAlignment.center,
                   spacing: 10,
                   runSpacing: 10,
-                  children: [
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                    PasswordTile(),
-                  ],
+                  children: others
+                      .map(
+                        (panel) => PasswordTile(
+                          password: panel.password,
+                          deskNumber: panel.attendantDesk.toString(),
+                        ),
+                      )
+                      .toList(),
                 ),
               ),
             ],

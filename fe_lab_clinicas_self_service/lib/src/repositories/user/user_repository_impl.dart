@@ -15,7 +15,6 @@ class UserRepositoryImpl implements UserRepository {
   Future<Either<AuthException, String>> login(
       String email, String password) async {
     try {
-      // print('TEste ${restClient.options.baseUrl}');
       final Response(data: {'access_token': accessToken}) =
           await restClient.unAuth.post("/auth", data: {
         'email': email,

@@ -14,11 +14,9 @@ class InformationFormRepositoryImpl implements InformationFormRepository {
 
   @override
   Future<Either<RepositoryException, Unit>> register(
-      SelfServiceModel model) async {
+      SelfServiceModel model, String password) async {
     try {
       final SelfServiceModel(
-        :name!,
-        :lastName!,
         patient: PatientModel(id: patientId)!,
         documents: {
           DocumentType.healthInsuranceCard: List(first: healInsuranceCardDoc),
@@ -30,7 +28,7 @@ class InformationFormRepositoryImpl implements InformationFormRepository {
         'patient_id': patientId,
         'health_insurance_card': healInsuranceCardDoc,
         'medical_order': medicalOrderDocs,
-        'password': '$name $lastName',
+        'password': password,
         'date_created': DateTime.now().toIso8601String(),
         'status': 'Waiting',
         'tests': [],

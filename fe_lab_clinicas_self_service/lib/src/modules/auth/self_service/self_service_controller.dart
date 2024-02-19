@@ -2,6 +2,7 @@
 import 'package:asyncstate/asyncstate.dart';
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
 import 'package:signals_flutter/signals_flutter.dart';
+import 'package:uuid/uuid.dart';
 
 import 'package:fe_lab_clinicas_self_service/src/model/patient_model.dart';
 import 'package:fe_lab_clinicas_self_service/src/model/self_service_model.dart';
@@ -74,14 +75,17 @@ class SelfServiceController with MessageStateMixin {
   }
 
   Future<void> finalize() async {
+    String uuid = const Uuid().v4().split('-')[0].toUpperCase();
     final result =
-        await informationFormRepository.register(model).asyncLoader();
+        await informationFormRepository.register(model, uuid).asyncLoader();
+    
 
     switch (result) {
       case Left():
         showError('Erro ao registrar atendimento');
       case Right():
-        password = '${_model.name} ${_model.lastName}';
+        // password = '${_model.name} ${_model.lastName}';
+        password = uuid;
         _step.forceUpdate(FormSteps.done);
     }
   }
